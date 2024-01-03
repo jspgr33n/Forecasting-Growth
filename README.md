@@ -17,3 +17,6 @@
 - Through summary statistics, found that Fulton County is the largest county and many residents move there
   - Despite this, the population in certain years between the sources show a discrepancy for this important county
   - Need to fix this, as Fulton County will play a crucial role in providing a good estimate for population growth in Atlanta
+
+**Final Presentation:**
+- [Summer 2023 QTM Social Practicum](https://github.com/jspgr33n/QTM-Practicum/blob/main/2023%20Summer%20QTM%20Social%20Practicum%20Presentation.pdf)
