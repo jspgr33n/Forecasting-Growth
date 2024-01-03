@@ -1,0 +1,397 @@
+"","year","county","variable","data"
+"1","2010","Cherokee","Total Mobility",203663
+"2","2010","Cherokee","Moved from Different County",9989
+"3","2010","Cherokee","Moved from Different State",4978
+"4","2011","Cherokee","Total Mobility",208506
+"5","2011","Cherokee","Moved from Different County",9750
+"6","2011","Cherokee","Moved from Different State",4450
+"7","2012","Cherokee","Total Mobility",211947
+"8","2012","Cherokee","Moved from Different County",10451
+"9","2012","Cherokee","Moved from Different State",3633
+"10","2013","Cherokee","Total Mobility",215316
+"11","2013","Cherokee","Moved from Different County",9335
+"12","2013","Cherokee","Moved from Different State",4403
+"13","2014","Cherokee","Total Mobility",219192
+"14","2014","Cherokee","Moved from Different County",9641
+"15","2014","Cherokee","Moved from Different State",5586
+"16","2015","Cherokee","Total Mobility",222983
+"17","2015","Cherokee","Moved from Different County",9866
+"18","2015","Cherokee","Moved from Different State",6106
+"19","2016","Cherokee","Total Mobility",227546
+"20","2016","Cherokee","Moved from Different County",10047
+"21","2016","Cherokee","Moved from Different State",5847
+"22","2017","Cherokee","Total Mobility",232989
+"23","2017","Cherokee","Moved from Different County",10465
+"24","2017","Cherokee","Moved from Different State",5806
+"25","2018","Cherokee","Total Mobility",238772
+"26","2018","Cherokee","Moved from Different County",10449
+"27","2018","Cherokee","Moved from Different State",4969
+"28","2019","Cherokee","Total Mobility",244461
+"29","2019","Cherokee","Moved from Different County",11049
+"30","2019","Cherokee","Moved from Different State",4346
+"31","2020","Cherokee","Total Mobility",250780
+"32","2020","Cherokee","Moved from Different County",11783
+"33","2020","Cherokee","Moved from Different State",5532
+"34","2021","Cherokee","Total Mobility",259537
+"35","2021","Cherokee","Moved from Different County",12230
+"36","2021","Cherokee","Moved from Different State",6573
+"37","2010","Clayton","Total Mobility",256231
+"38","2010","Clayton","Moved from Different County",17983
+"39","2010","Clayton","Moved from Different State",8923
+"40","2011","Clayton","Total Mobility",256644
+"41","2011","Clayton","Moved from Different County",18060
+"42","2011","Clayton","Moved from Different State",8090
+"43","2012","Clayton","Total Mobility",258101
+"44","2012","Clayton","Moved from Different County",18020
+"45","2012","Clayton","Moved from Different State",8206
+"46","2013","Clayton","Total Mobility",258645
+"47","2013","Clayton","Moved from Different County",19068
+"48","2013","Clayton","Moved from Different State",7835
+"49","2014","Clayton","Total Mobility",260446
+"50","2014","Clayton","Moved from Different County",18547
+"51","2014","Clayton","Moved from Different State",7706
+"52","2015","Clayton","Total Mobility",263288
+"53","2015","Clayton","Moved from Different County",18748
+"54","2015","Clayton","Moved from Different State",7810
+"55","2016","Clayton","Total Mobility",266677
+"56","2016","Clayton","Moved from Different County",20231
+"57","2016","Clayton","Moved from Different State",8298
+"58","2017","Clayton","Total Mobility",270151
+"59","2017","Clayton","Moved from Different County",20035
+"60","2017","Clayton","Moved from Different State",7878
+"61","2018","Clayton","Total Mobility",274249
+"62","2018","Clayton","Moved from Different County",19579
+"63","2018","Clayton","Moved from Different State",7189
+"64","2019","Clayton","Total Mobility",279153
+"65","2019","Clayton","Moved from Different County",19954
+"66","2019","Clayton","Moved from Different State",7586
+"67","2020","Clayton","Total Mobility",283251
+"68","2020","Clayton","Moved from Different County",18816
+"69","2020","Clayton","Moved from Different State",6368
+"70","2021","Clayton","Total Mobility",290145
+"71","2021","Clayton","Moved from Different County",16343
+"72","2021","Clayton","Moved from Different State",5683
+"73","2010","Cobb","Total Mobility",667373
+"74","2010","Cobb","Moved from Different County",32725
+"75","2010","Cobb","Moved from Different State",26397
+"76","2011","Cobb","Total Mobility",674828
+"77","2011","Cobb","Moved from Different County",34805
+"78","2011","Cobb","Moved from Different State",24669
+"79","2012","Cobb","Total Mobility",682291
+"80","2012","Cobb","Moved from Different County",35229
+"81","2012","Cobb","Moved from Different State",24338
+"82","2013","Cobb","Total Mobility",690260
+"83","2013","Cobb","Moved from Different County",35461
+"84","2013","Cobb","Moved from Different State",25222
+"85","2014","Cobb","Total Mobility",700675
+"86","2014","Cobb","Moved from Different County",35749
+"87","2014","Cobb","Moved from Different State",24659
+"88","2015","Cobb","Total Mobility",710637
+"89","2015","Cobb","Moved from Different County",35673
+"90","2015","Cobb","Moved from Different State",24438
+"91","2016","Cobb","Total Mobility",719094
+"92","2016","Cobb","Moved from Different County",34877
+"93","2016","Cobb","Moved from Different State",24806
+"94","2017","Cobb","Total Mobility",729931
+"95","2017","Cobb","Moved from Different County",33109
+"96","2017","Cobb","Moved from Different State",22953
+"97","2018","Cobb","Total Mobility",735793
+"98","2018","Cobb","Moved from Different County",32792
+"99","2018","Cobb","Moved from Different State",21273
+"100","2019","Cobb","Total Mobility",741983
+"101","2019","Cobb","Moved from Different County",32655
+"102","2019","Cobb","Moved from Different State",21433
+"103","2020","Cobb","Total Mobility",747432
+"104","2020","Cobb","Moved from Different County",35567
+"105","2020","Cobb","Moved from Different State",20453
+"106","2021","Cobb","Total Mobility",754207
+"107","2021","Cobb","Moved from Different County",36513
+"108","2021","Cobb","Moved from Different State",19064
+"109","2010","DeKalb","Total Mobility",675213
+"110","2010","DeKalb","Moved from Different County",41936
+"111","2010","DeKalb","Moved from Different State",23452
+"112","2011","DeKalb","Total Mobility",679960
+"113","2011","DeKalb","Moved from Different County",41651
+"114","2011","DeKalb","Moved from Different State",21299
+"115","2012","DeKalb","Total Mobility",684704
+"116","2012","DeKalb","Moved from Different County",37887
+"117","2012","DeKalb","Moved from Different State",22049
+"118","2013","DeKalb","Total Mobility",689711
+"119","2013","DeKalb","Moved from Different County",36364
+"120","2013","DeKalb","Moved from Different State",20640
+"121","2014","DeKalb","Total Mobility",696554
+"122","2014","DeKalb","Moved from Different County",37219
+"123","2014","DeKalb","Moved from Different State",21025
+"124","2015","DeKalb","Total Mobility",706023
+"125","2015","DeKalb","Moved from Different County",38930
+"126","2015","DeKalb","Moved from Different State",21157
+"127","2016","DeKalb","Total Mobility",714228
+"128","2016","DeKalb","Moved from Different County",37366
+"129","2016","DeKalb","Moved from Different State",21362
+"130","2017","DeKalb","Total Mobility",726227
+"131","2017","DeKalb","Moved from Different County",39612
+"132","2017","DeKalb","Moved from Different State",20756
+"133","2018","DeKalb","Total Mobility",734063
+"134","2018","DeKalb","Moved from Different County",38689
+"135","2018","DeKalb","Moved from Different State",22054
+"136","2019","DeKalb","Total Mobility",739989
+"137","2019","DeKalb","Moved from Different County",34777
+"138","2019","DeKalb","Moved from Different State",22564
+"139","2020","DeKalb","Total Mobility",746247
+"140","2020","DeKalb","Moved from Different County",34193
+"141","2020","DeKalb","Moved from Different State",23297
+"142","2021","DeKalb","Total Mobility",749445
+"143","2021","DeKalb","Moved from Different County",32631
+"144","2021","DeKalb","Moved from Different State",23528
+"145","2010","Douglas","Total Mobility",126072
+"146","2010","Douglas","Moved from Different County",10159
+"147","2010","Douglas","Moved from Different State",5669
+"148","2011","Douglas","Total Mobility",128355
+"149","2011","Douglas","Moved from Different County",9505
+"150","2011","Douglas","Moved from Different State",4344
+"151","2012","Douglas","Total Mobility",130034
+"152","2012","Douglas","Moved from Different County",9243
+"153","2012","Douglas","Moved from Different State",3588
+"154","2013","Douglas","Total Mobility",131205
+"155","2013","Douglas","Moved from Different County",7845
+"156","2013","Douglas","Moved from Different State",3961
+"157","2014","Douglas","Total Mobility",132911
+"158","2014","Douglas","Moved from Different County",7370
+"159","2014","Douglas","Moved from Different State",3888
+"160","2015","Douglas","Total Mobility",134356
+"161","2015","Douglas","Moved from Different County",6936
+"162","2015","Douglas","Moved from Different State",3388
+"163","2016","Douglas","Total Mobility",136437
+"164","2016","Douglas","Moved from Different County",6888
+"165","2016","Douglas","Moved from Different State",3134
+"166","2017","Douglas","Total Mobility",138433
+"167","2017","Douglas","Moved from Different County",7518
+"168","2017","Douglas","Moved from Different State",3114
+"169","2018","Douglas","Total Mobility",140048
+"170","2018","Douglas","Moved from Different County",7905
+"171","2018","Douglas","Moved from Different State",2845
+"172","2019","Douglas","Total Mobility",141406
+"173","2019","Douglas","Moved from Different County",8556
+"174","2019","Douglas","Moved from Different State",2752
+"175","2020","Douglas","Total Mobility",143626
+"176","2020","Douglas","Moved from Different County",9266
+"177","2020","Douglas","Moved from Different State",2748
+"178","2021","Douglas","Total Mobility",142010
+"179","2021","Douglas","Moved from Different County",9043
+"180","2021","Douglas","Moved from Different State",2652
+"181","2010","Fayette","Total Mobility",104627
+"182","2010","Fayette","Moved from Different County",4661
+"183","2010","Fayette","Moved from Different State",3294
+"184","2011","Fayette","Total Mobility",105348
+"185","2011","Fayette","Moved from Different County",4894
+"186","2011","Fayette","Moved from Different State",2664
+"187","2012","Fayette","Total Mobility",105799
+"188","2012","Fayette","Moved from Different County",5359
+"189","2012","Fayette","Moved from Different State",2272
+"190","2013","Fayette","Total Mobility",106410
+"191","2013","Fayette","Moved from Different County",4826
+"192","2013","Fayette","Moved from Different State",2495
+"193","2014","Fayette","Total Mobility",107259
+"194","2014","Fayette","Moved from Different County",4857
+"195","2014","Fayette","Moved from Different State",2155
+"196","2015","Fayette","Total Mobility",107947
+"197","2015","Fayette","Moved from Different County",5099
+"198","2015","Fayette","Moved from Different State",2639
+"199","2016","Fayette","Total Mobility",108853
+"200","2016","Fayette","Moved from Different County",4842
+"201","2016","Fayette","Moved from Different State",2943
+"202","2017","Fayette","Total Mobility",109574
+"203","2017","Fayette","Moved from Different County",4120
+"204","2017","Fayette","Moved from Different State",3438
+"205","2018","Fayette","Total Mobility",110633
+"206","2018","Fayette","Moved from Different County",4098
+"207","2018","Fayette","Moved from Different State",3696
+"208","2019","Fayette","Total Mobility",111567
+"209","2019","Fayette","Moved from Different County",4093
+"210","2019","Fayette","Moved from Different State",3725
+"211","2020","Fayette","Total Mobility",112833
+"212","2020","Fayette","Moved from Different County",4604
+"213","2020","Fayette","Moved from Different State",3719
+"214","2021","Fayette","Total Mobility",117005
+"215","2021","Fayette","Moved from Different County",5966
+"216","2021","Fayette","Moved from Different State",3480
+"217","2010","Forsyth","Total Mobility",161962
+"218","2010","Forsyth","Moved from Different County",7548
+"219","2010","Forsyth","Moved from Different State",3997
+"220","2011","Forsyth","Total Mobility",168708
+"221","2011","Forsyth","Moved from Different County",8029
+"222","2011","Forsyth","Moved from Different State",3734
+"223","2012","Forsyth","Total Mobility",174722
+"224","2012","Forsyth","Moved from Different County",7059
+"225","2012","Forsyth","Moved from Different State",3570
+"226","2013","Forsyth","Total Mobility",180554
+"227","2013","Forsyth","Moved from Different County",6996
+"228","2013","Forsyth","Moved from Different State",4188
+"229","2014","Forsyth","Total Mobility",187038
+"230","2014","Forsyth","Moved from Different County",6256
+"231","2014","Forsyth","Moved from Different State",5109
+"232","2015","Forsyth","Total Mobility",193793
+"233","2015","Forsyth","Moved from Different County",7725
+"234","2015","Forsyth","Moved from Different State",5145
+"235","2016","Forsyth","Total Mobility",201647
+"236","2016","Forsyth","Moved from Different County",8536
+"237","2016","Forsyth","Moved from Different State",5839
+"238","2017","Forsyth","Total Mobility",209105
+"239","2017","Forsyth","Moved from Different County",9816
+"240","2017","Forsyth","Moved from Different State",5978
+"241","2018","Forsyth","Total Mobility",217491
+"242","2018","Forsyth","Moved from Different County",11405
+"243","2018","Forsyth","Moved from Different State",6224
+"244","2019","Forsyth","Total Mobility",225823
+"245","2019","Forsyth","Moved from Different County",11265
+"246","2019","Forsyth","Moved from Different State",5716
+"247","2020","Forsyth","Total Mobility",233903
+"248","2020","Forsyth","Moved from Different County",11326
+"249","2020","Forsyth","Moved from Different State",5859
+"250","2021","Forsyth","Total Mobility",243101
+"251","2021","Forsyth","Moved from Different County",12841
+"252","2021","Forsyth","Moved from Different State",6130
+"253","2010","Fulton","Total Mobility",874772
+"254","2010","Fulton","Moved from Different County",43530
+"255","2010","Fulton","Moved from Different State",40516
+"256","2011","Fulton","Total Mobility",895908
+"257","2011","Fulton","Moved from Different County",44101
+"258","2011","Fulton","Moved from Different State",35831
+"259","2012","Fulton","Total Mobility",917758
+"260","2012","Fulton","Moved from Different County",46828
+"261","2012","Fulton","Moved from Different State",34182
+"262","2013","Fulton","Total Mobility",936521
+"263","2013","Fulton","Moved from Different County",47266
+"264","2013","Fulton","Moved from Different State",33185
+"265","2014","Fulton","Total Mobility",955453
+"266","2014","Fulton","Moved from Different County",48745
+"267","2014","Fulton","Moved from Different State",32566
+"268","2015","Fulton","Total Mobility",972747
+"269","2015","Fulton","Moved from Different County",47832
+"270","2015","Fulton","Moved from Different State",31995
+"271","2016","Fulton","Total Mobility",984724
+"272","2016","Fulton","Moved from Different County",48332
+"273","2016","Fulton","Moved from Different State",35182
+"274","2017","Fulton","Total Mobility",998333
+"275","2017","Fulton","Moved from Different County",47503
+"276","2017","Fulton","Moved from Different State",35225
+"277","2018","Fulton","Total Mobility",1009519
+"278","2018","Fulton","Moved from Different County",49285
+"279","2018","Fulton","Moved from Different State",36135
+"280","2019","Fulton","Total Mobility",1023679
+"281","2019","Fulton","Moved from Different County",48731
+"282","2019","Fulton","Moved from Different State",36644
+"283","2020","Fulton","Total Mobility",1038670
+"284","2020","Fulton","Moved from Different County",52929
+"285","2020","Fulton","Moved from Different State",36853
+"286","2021","Fulton","Total Mobility",1042430
+"287","2021","Fulton","Moved from Different County",54109
+"288","2021","Fulton","Moved from Different State",39244
+"289","2010","Gwinnett","Total Mobility",765737
+"290","2010","Gwinnett","Moved from Different County",29496
+"291","2010","Gwinnett","Moved from Different State",26443
+"292","2011","Gwinnett","Total Mobility",783518
+"293","2011","Gwinnett","Moved from Different County",28838
+"294","2011","Gwinnett","Moved from Different State",22713
+"295","2012","Gwinnett","Total Mobility",799308
+"296","2012","Gwinnett","Moved from Different County",27812
+"297","2012","Gwinnett","Moved from Different State",21303
+"298","2013","Gwinnett","Total Mobility",815013
+"299","2013","Gwinnett","Moved from Different County",27597
+"300","2013","Gwinnett","Moved from Different State",19883
+"301","2014","Gwinnett","Total Mobility",831101
+"302","2014","Gwinnett","Moved from Different County",25751
+"303","2014","Gwinnett","Moved from Different State",19103
+"304","2015","Gwinnett","Total Mobility",848492
+"305","2015","Gwinnett","Moved from Different County",26098
+"306","2015","Gwinnett","Moved from Different State",21983
+"307","2016","Gwinnett","Total Mobility",863057
+"308","2016","Gwinnett","Moved from Different County",27495
+"309","2016","Gwinnett","Moved from Different State",24269
+"310","2017","Gwinnett","Total Mobility",879098
+"311","2017","Gwinnett","Moved from Different County",27008
+"312","2017","Gwinnett","Moved from Different State",23327
+"313","2018","Gwinnett","Total Mobility",891437
+"314","2018","Gwinnett","Moved from Different County",26944
+"315","2018","Gwinnett","Moved from Different State",24605
+"316","2019","Gwinnett","Total Mobility",905129
+"317","2019","Gwinnett","Moved from Different County",27852
+"318","2019","Gwinnett","Moved from Different State",25861
+"319","2020","Gwinnett","Total Mobility",916573
+"320","2020","Gwinnett","Moved from Different County",26100
+"321","2020","Gwinnett","Moved from Different State",23969
+"322","2021","Gwinnett","Total Mobility",939156
+"323","2021","Gwinnett","Moved from Different County",26362
+"324","2021","Gwinnett","Moved from Different State",20590
+"325","2010","Henry","Total Mobility",191291
+"326","2010","Henry","Moved from Different County",12871
+"327","2010","Henry","Moved from Different State",7081
+"328","2011","Henry","Total Mobility",196848
+"329","2011","Henry","Moved from Different County",11937
+"330","2011","Henry","Moved from Different State",5466
+"331","2012","Henry","Total Mobility",200776
+"332","2012","Henry","Moved from Different County",12016
+"333","2012","Henry","Moved from Different State",4508
+"334","2013","Henry","Total Mobility",203969
+"335","2013","Henry","Moved from Different County",10315
+"336","2013","Henry","Moved from Different State",4035
+"337","2014","Henry","Total Mobility",206794
+"338","2014","Henry","Moved from Different County",10832
+"339","2014","Henry","Moved from Different State",4425
+"340","2015","Henry","Total Mobility",209531
+"341","2015","Henry","Moved from Different County",9787
+"342","2015","Henry","Moved from Different State",5138
+"343","2016","Henry","Total Mobility",212022
+"344","2016","Henry","Moved from Different County",11950
+"345","2016","Henry","Moved from Different State",5427
+"346","2017","Henry","Total Mobility",215513
+"347","2017","Henry","Moved from Different County",11930
+"348","2017","Henry","Moved from Different State",5517
+"349","2018","Henry","Total Mobility",219456
+"350","2018","Henry","Moved from Different County",12726
+"351","2018","Henry","Moved from Different State",5666
+"352","2019","Henry","Total Mobility",223291
+"353","2019","Henry","Moved from Different County",12253
+"354","2019","Henry","Moved from Different State",5653
+"355","2020","Henry","Total Mobility",227930
+"356","2020","Henry","Moved from Different County",11432
+"357","2020","Henry","Moved from Different State",5533
+"358","2021","Henry","Total Mobility",234793
+"359","2021","Henry","Moved from Different County",10225
+"360","2021","Henry","Moved from Different State",5632
+"361","2010","Rockdale","Total Mobility",82010
+"362","2010","Rockdale","Moved from Different County",6536
+"363","2010","Rockdale","Moved from Different State",2779
+"364","2011","Rockdale","Total Mobility",83296
+"365","2011","Rockdale","Moved from Different County",6897
+"366","2011","Rockdale","Moved from Different State",2330
+"367","2012","Rockdale","Total Mobility",84012
+"368","2012","Rockdale","Moved from Different County",6734
+"369","2012","Rockdale","Moved from Different State",1951
+"370","2013","Rockdale","Total Mobility",84649
+"371","2013","Rockdale","Moved from Different County",6242
+"372","2013","Rockdale","Moved from Different State",3001
+"373","2014","Rockdale","Total Mobility",85083
+"374","2014","Rockdale","Moved from Different County",5853
+"375","2014","Rockdale","Moved from Different State",2914
+"376","2015","Rockdale","Total Mobility",85826
+"377","2015","Rockdale","Moved from Different County",5205
+"378","2015","Rockdale","Moved from Different State",2841
+"379","2016","Rockdale","Total Mobility",86439
+"380","2016","Rockdale","Moved from Different County",5090
+"381","2016","Rockdale","Moved from Different State",3216
+"382","2017","Rockdale","Total Mobility",87450
+"383","2017","Rockdale","Moved from Different County",4991
+"384","2017","Rockdale","Moved from Different State",3207
+"385","2018","Rockdale","Total Mobility",88006
+"386","2018","Rockdale","Moved from Different County",4721
+"387","2018","Rockdale","Moved from Different State",2552
+"388","2019","Rockdale","Total Mobility",88831
+"389","2019","Rockdale","Moved from Different County",5725
+"390","2019","Rockdale","Moved from Different State",2677
+"391","2020","Rockdale","Total Mobility",89387
+"392","2020","Rockdale","Moved from Different County",7099
+"393","2020","Rockdale","Moved from Different State",2674
+"394","2021","Rockdale","Total Mobility",92300
+"395","2021","Rockdale","Moved from Different County",7654
+"396","2021","Rockdale","Moved from Different State",1966

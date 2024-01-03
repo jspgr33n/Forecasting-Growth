@@ -1,0 +1,70 @@
+---
+author: "James Park"
+title: "tidy_census"
+output: html_document
+date: "2023-07-06"
+---
+install.packages("tidycensus", dep=T)
+install.packages("mapview")
+install.packages(c("geofacet", "ggridges"))
+
+```{r}
+library(tidycensus)
+library(ggplot2)
+library(tidyverse)
+library(dplyr)
+tidycensus::census_api_key(key =  "688c437e0cbfb6abeebf433a40742f509bde0987", install = T)
+```
+
+remotes::install_github("walkerke/tidycensus")
+
+
+```{r}
+library(mapview)
+v15_Profile <- load_variables(2017 , "acs5/profile", cache = TRUE) #demographic profile tables
+v15_Profile[grep(x = v15_Profile$label, "Built 2000 to 2009"), c("name", "label")]
+```
+
+```{r}
+age20 <- get_decennial(geography = "state", 
+                       variables = "P13_001N", 
+                       year = 2020,
+                       sumfile = "dhc")
+
+head(age20)
+
+age20 %>%
+  ggplot(aes(x = value, y = reorder(NAME, value))) + 
+  geom_point()
+
+
+# get_decennial function requires geography and variables to run
+pop20 <- get_decennial(
+  geography = "county",
+  state = "georgia",
+  variables = "P1",
+  year = 2020
+)
+
+pop20 %>%
+  group_by(NAME) %>%
+  arrange(desc(value)) %>%
+  filter(NAME == "Fulton County, Georgia" | NAME == "Gwinnett County, Georgia")
+
+
+race18 <- get_decennial(
+  geography = "state",
+  table = "P3",
+  year = 2020
+)
+
+sex_and_age <- get_acs(
+  geography = "state",
+  variables = "P1"
+)
+
+
+  
+```
+
+

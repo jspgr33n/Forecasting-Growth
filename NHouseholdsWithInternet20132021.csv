@@ -1,0 +1,298 @@
+"","year","county","variable","data"
+"1","2013","Cherokee County, Georgia","Households With Internet",76627
+"2","2013","Cherokee County, Georgia","Households With a Computer",70916
+"3","2013","Cherokee County, Georgia","Households with a Broadband Internet Subscription",66923
+"4","2014","Cherokee County, Georgia","Households With Internet",81991
+"5","2014","Cherokee County, Georgia","Households With a Computer",77147
+"6","2014","Cherokee County, Georgia","Households with a Broadband Internet Subscription",72050
+"7","2015","Cherokee County, Georgia","Households With Internet",82664
+"8","2015","Cherokee County, Georgia","Households With a Computer",77015
+"9","2015","Cherokee County, Georgia","Households with a Broadband Internet Subscription",74309
+"10","2016","Cherokee County, Georgia","Households With Internet",84088
+"11","2016","Cherokee County, Georgia","Households With a Computer",79575
+"12","2016","Cherokee County, Georgia","Households with a Broadband Internet Subscription",78135
+"13","2017","Cherokee County, Georgia","Households With Internet",89510
+"14","2017","Cherokee County, Georgia","Households With a Computer",86555
+"15","2017","Cherokee County, Georgia","Households with a Broadband Internet Subscription",82479
+"16","2018","Cherokee County, Georgia","Households With Internet",89974
+"17","2018","Cherokee County, Georgia","Households With a Computer",87696
+"18","2018","Cherokee County, Georgia","Households with a Broadband Internet Subscription",85240
+"19","2019","Cherokee County, Georgia","Households With Internet",93441
+"20","2019","Cherokee County, Georgia","Households With a Computer",87520
+"21","2019","Cherokee County, Georgia","Households with a Broadband Internet Subscription",84680
+"22","2020","Cherokee County, Georgia","Households With Internet",90372
+"23","2020","Cherokee County, Georgia","Households With a Computer",86880
+"24","2020","Cherokee County, Georgia","Households with a Broadband Internet Subscription",84269
+"25","2021","Cherokee County, Georgia","Households With Internet",100023
+"26","2021","Cherokee County, Georgia","Households With a Computer",97447
+"27","2021","Cherokee County, Georgia","Households with a Broadband Internet Subscription",95287
+"28","2013","Clayton County, Georgia","Households With Internet",89106
+"29","2013","Clayton County, Georgia","Households With a Computer",77740
+"30","2013","Clayton County, Georgia","Households with a Broadband Internet Subscription",62570
+"31","2014","Clayton County, Georgia","Households With Internet",88538
+"32","2014","Clayton County, Georgia","Households With a Computer",77782
+"33","2014","Clayton County, Georgia","Households with a Broadband Internet Subscription",62358
+"34","2015","Clayton County, Georgia","Households With Internet",90373
+"35","2015","Clayton County, Georgia","Households With a Computer",81547
+"36","2015","Clayton County, Georgia","Households with a Broadband Internet Subscription",67485
+"37","2016","Clayton County, Georgia","Households With Internet",94346
+"38","2016","Clayton County, Georgia","Households With a Computer",88434
+"39","2016","Clayton County, Georgia","Households with a Broadband Internet Subscription",76674
+"40","2017","Clayton County, Georgia","Households With Internet",94199
+"41","2017","Clayton County, Georgia","Households With a Computer",87597
+"42","2017","Clayton County, Georgia","Households with a Broadband Internet Subscription",75460
+"43","2018","Clayton County, Georgia","Households With Internet",96286
+"44","2018","Clayton County, Georgia","Households With a Computer",89596
+"45","2018","Clayton County, Georgia","Households with a Broadband Internet Subscription",75307
+"46","2019","Clayton County, Georgia","Households With Internet",97030
+"47","2019","Clayton County, Georgia","Households With a Computer",91332
+"48","2019","Clayton County, Georgia","Households with a Broadband Internet Subscription",83811
+"49","2020","Clayton County, Georgia","Households With Internet",96826
+"50","2020","Clayton County, Georgia","Households With a Computer",90578
+"51","2020","Clayton County, Georgia","Households with a Broadband Internet Subscription",80515
+"52","2021","Clayton County, Georgia","Households With Internet",106249
+"53","2021","Clayton County, Georgia","Households With a Computer",104368
+"54","2021","Clayton County, Georgia","Households with a Broadband Internet Subscription",98306
+"55","2013","Cobb County, Georgia","Households With Internet",266851
+"56","2013","Cobb County, Georgia","Households With a Computer",242064
+"57","2013","Cobb County, Georgia","Households with a Broadband Internet Subscription",217964
+"58","2014","Cobb County, Georgia","Households With Internet",271686
+"59","2014","Cobb County, Georgia","Households With a Computer",254708
+"60","2014","Cobb County, Georgia","Households with a Broadband Internet Subscription",233356
+"61","2015","Cobb County, Georgia","Households With Internet",274468
+"62","2015","Cobb County, Georgia","Households With a Computer",259451
+"63","2015","Cobb County, Georgia","Households with a Broadband Internet Subscription",238023
+"64","2016","Cobb County, Georgia","Households With Internet",277949
+"65","2016","Cobb County, Georgia","Households With a Computer",265254
+"66","2016","Cobb County, Georgia","Households with a Broadband Internet Subscription",250640
+"67","2017","Cobb County, Georgia","Households With Internet",277609
+"68","2017","Cobb County, Georgia","Households With a Computer",268883
+"69","2017","Cobb County, Georgia","Households with a Broadband Internet Subscription",255266
+"70","2018","Cobb County, Georgia","Households With Internet",283094
+"71","2018","Cobb County, Georgia","Households With a Computer",276380
+"72","2018","Cobb County, Georgia","Households with a Broadband Internet Subscription",264598
+"73","2019","Cobb County, Georgia","Households With Internet",286952
+"74","2019","Cobb County, Georgia","Households With a Computer",281513
+"75","2019","Cobb County, Georgia","Households with a Broadband Internet Subscription",272399
+"76","2020","Cobb County, Georgia","Households With Internet",283359
+"77","2020","Cobb County, Georgia","Households With a Computer",275518
+"78","2020","Cobb County, Georgia","Households with a Broadband Internet Subscription",264449
+"79","2021","Cobb County, Georgia","Households With Internet",292841
+"80","2021","Cobb County, Georgia","Households With a Computer",287803
+"81","2021","Cobb County, Georgia","Households with a Broadband Internet Subscription",281569
+"82","2013","DeKalb County, Georgia","Households With Internet",268239
+"83","2013","DeKalb County, Georgia","Households With a Computer",238489
+"84","2013","DeKalb County, Georgia","Households with a Broadband Internet Subscription",206024
+"85","2014","DeKalb County, Georgia","Households With Internet",266307
+"86","2014","DeKalb County, Georgia","Households With a Computer",238666
+"87","2014","DeKalb County, Georgia","Households with a Broadband Internet Subscription",206655
+"88","2015","DeKalb County, Georgia","Households With Internet",276631
+"89","2015","DeKalb County, Georgia","Households With a Computer",254345
+"90","2015","DeKalb County, Georgia","Households with a Broadband Internet Subscription",214620
+"91","2016","DeKalb County, Georgia","Households With Internet",281356
+"92","2016","DeKalb County, Georgia","Households With a Computer",262790
+"93","2016","DeKalb County, Georgia","Households with a Broadband Internet Subscription",236165
+"94","2017","DeKalb County, Georgia","Households With Internet",278249
+"95","2017","DeKalb County, Georgia","Households With a Computer",261390
+"96","2017","DeKalb County, Georgia","Households with a Broadband Internet Subscription",246041
+"97","2018","DeKalb County, Georgia","Households With Internet",287001
+"98","2018","DeKalb County, Georgia","Households With a Computer",269348
+"99","2018","DeKalb County, Georgia","Households with a Broadband Internet Subscription",251490
+"100","2019","DeKalb County, Georgia","Households With Internet",289829
+"101","2019","DeKalb County, Georgia","Households With a Computer",272285
+"102","2019","DeKalb County, Georgia","Households with a Broadband Internet Subscription",255990
+"103","2020","DeKalb County, Georgia","Households With Internet",283799
+"104","2020","DeKalb County, Georgia","Households With a Computer",266747
+"105","2020","DeKalb County, Georgia","Households with a Broadband Internet Subscription",249479
+"106","2021","DeKalb County, Georgia","Households With Internet",273981
+"107","2021","DeKalb County, Georgia","Households With a Computer",264769
+"108","2021","DeKalb County, Georgia","Households with a Broadband Internet Subscription",255792
+"109","2013","Douglas County, Georgia","Households With Internet",46770
+"110","2013","Douglas County, Georgia","Households With a Computer",42253
+"111","2013","Douglas County, Georgia","Households with a Broadband Internet Subscription",35965
+"112","2014","Douglas County, Georgia","Households With Internet",47687
+"113","2014","Douglas County, Georgia","Households With a Computer",43082
+"114","2014","Douglas County, Georgia","Households with a Broadband Internet Subscription",37587
+"115","2015","Douglas County, Georgia","Households With Internet",48493
+"116","2015","Douglas County, Georgia","Households With a Computer",44854
+"117","2015","Douglas County, Georgia","Households with a Broadband Internet Subscription",39969
+"118","2016","Douglas County, Georgia","Households With Internet",48901
+"119","2016","Douglas County, Georgia","Households With a Computer",45812
+"120","2016","Douglas County, Georgia","Households with a Broadband Internet Subscription",34590
+"121","2017","Douglas County, Georgia","Households With Internet",49962
+"122","2017","Douglas County, Georgia","Households With a Computer",47396
+"123","2017","Douglas County, Georgia","Households with a Broadband Internet Subscription",40627
+"124","2018","Douglas County, Georgia","Households With Internet",49534
+"125","2018","Douglas County, Georgia","Households With a Computer",48036
+"126","2018","Douglas County, Georgia","Households with a Broadband Internet Subscription",42602
+"127","2019","Douglas County, Georgia","Households With Internet",48899
+"128","2019","Douglas County, Georgia","Households With a Computer",46299
+"129","2019","Douglas County, Georgia","Households with a Broadband Internet Subscription",41622
+"130","2020","Douglas County, Georgia","Households With Internet",49788
+"131","2020","Douglas County, Georgia","Households With a Computer",47232
+"132","2020","Douglas County, Georgia","Households with a Broadband Internet Subscription",41763
+"133","2021","Douglas County, Georgia","Households With Internet",51441
+"134","2021","Douglas County, Georgia","Households With a Computer",49405
+"135","2021","Douglas County, Georgia","Households with a Broadband Internet Subscription",47953
+"136","2013","Fayette County, Georgia","Households With Internet",37885
+"137","2013","Fayette County, Georgia","Households With a Computer",34890
+"138","2013","Fayette County, Georgia","Households with a Broadband Internet Subscription",33157
+"139","2014","Fayette County, Georgia","Households With Internet",38945
+"140","2014","Fayette County, Georgia","Households With a Computer",35652
+"141","2014","Fayette County, Georgia","Households with a Broadband Internet Subscription",34514
+"142","2015","Fayette County, Georgia","Households With Internet",39707
+"143","2015","Fayette County, Georgia","Households With a Computer",37065
+"144","2015","Fayette County, Georgia","Households with a Broadband Internet Subscription",34791
+"145","2016","Fayette County, Georgia","Households With Internet",40046
+"146","2016","Fayette County, Georgia","Households With a Computer",37584
+"147","2016","Fayette County, Georgia","Households with a Broadband Internet Subscription",34987
+"148","2017","Fayette County, Georgia","Households With Internet",40484
+"149","2017","Fayette County, Georgia","Households With a Computer",38586
+"150","2017","Fayette County, Georgia","Households with a Broadband Internet Subscription",36957
+"151","2018","Fayette County, Georgia","Households With Internet",39366
+"152","2018","Fayette County, Georgia","Households With a Computer",36968
+"153","2018","Fayette County, Georgia","Households with a Broadband Internet Subscription",35611
+"154","2019","Fayette County, Georgia","Households With Internet",41253
+"155","2019","Fayette County, Georgia","Households With a Computer",40358
+"156","2019","Fayette County, Georgia","Households with a Broadband Internet Subscription",38822
+"157","2020","Fayette County, Georgia","Households With Internet",40792
+"158","2020","Fayette County, Georgia","Households With a Computer",39250
+"159","2020","Fayette County, Georgia","Households with a Broadband Internet Subscription",37150
+"160","2021","Fayette County, Georgia","Households With Internet",43689
+"161","2021","Fayette County, Georgia","Households With a Computer",42591
+"162","2021","Fayette County, Georgia","Households with a Broadband Internet Subscription",41939
+"163","2013","Forsyth County, Georgia","Households With Internet",64465
+"164","2013","Forsyth County, Georgia","Households With a Computer",61057
+"165","2013","Forsyth County, Georgia","Households with a Broadband Internet Subscription",57586
+"166","2014","Forsyth County, Georgia","Households With Internet",66429
+"167","2014","Forsyth County, Georgia","Households With a Computer",61852
+"168","2014","Forsyth County, Georgia","Households with a Broadband Internet Subscription",59087
+"169","2015","Forsyth County, Georgia","Households With Internet",70033
+"170","2015","Forsyth County, Georgia","Households With a Computer",67400
+"171","2015","Forsyth County, Georgia","Households with a Broadband Internet Subscription",64110
+"172","2016","Forsyth County, Georgia","Households With Internet",72208
+"173","2016","Forsyth County, Georgia","Households With a Computer",69241
+"174","2016","Forsyth County, Georgia","Households with a Broadband Internet Subscription",65867
+"175","2017","Forsyth County, Georgia","Households With Internet",78299
+"176","2017","Forsyth County, Georgia","Households With a Computer",76153
+"177","2017","Forsyth County, Georgia","Households with a Broadband Internet Subscription",74059
+"178","2018","Forsyth County, Georgia","Households With Internet",81353
+"179","2018","Forsyth County, Georgia","Households With a Computer",79380
+"180","2018","Forsyth County, Georgia","Households with a Broadband Internet Subscription",77784
+"181","2019","Forsyth County, Georgia","Households With Internet",81765
+"182","2019","Forsyth County, Georgia","Households With a Computer",80180
+"183","2019","Forsyth County, Georgia","Households with a Broadband Internet Subscription",77974
+"184","2020","Forsyth County, Georgia","Households With Internet",80319
+"185","2020","Forsyth County, Georgia","Households With a Computer",78272
+"186","2020","Forsyth County, Georgia","Households with a Broadband Internet Subscription",76447
+"187","2021","Forsyth County, Georgia","Households With Internet",86475
+"188","2021","Forsyth County, Georgia","Households With a Computer",85830
+"189","2021","Forsyth County, Georgia","Households with a Broadband Internet Subscription",84669
+"190","2013","Fulton County, Georgia","Households With Internet",379281
+"191","2013","Fulton County, Georgia","Households With a Computer",330793
+"192","2013","Fulton County, Georgia","Households with a Broadband Internet Subscription",292545
+"193","2014","Fulton County, Georgia","Households With Internet",381990
+"194","2014","Fulton County, Georgia","Households With a Computer",334999
+"195","2014","Fulton County, Georgia","Households with a Broadband Internet Subscription",293350
+"196","2015","Fulton County, Georgia","Households With Internet",392794
+"197","2015","Fulton County, Georgia","Households With a Computer",357459
+"198","2015","Fulton County, Georgia","Households with a Broadband Internet Subscription",301608
+"199","2016","Fulton County, Georgia","Households With Internet",396184
+"200","2016","Fulton County, Georgia","Households With a Computer",367120
+"201","2016","Fulton County, Georgia","Households with a Broadband Internet Subscription",338924
+"202","2017","Fulton County, Georgia","Households With Internet",410408
+"203","2017","Fulton County, Georgia","Households With a Computer",382775
+"204","2017","Fulton County, Georgia","Households with a Broadband Internet Subscription",361275
+"205","2018","Fulton County, Georgia","Households With Internet",417157
+"206","2018","Fulton County, Georgia","Households With a Computer",392237
+"207","2018","Fulton County, Georgia","Households with a Broadband Internet Subscription",372115
+"208","2019","Fulton County, Georgia","Households With Internet",439578
+"209","2019","Fulton County, Georgia","Households With a Computer",419019
+"210","2019","Fulton County, Georgia","Households with a Broadband Internet Subscription",397979
+"211","2020","Fulton County, Georgia","Households With Internet",427379
+"212","2020","Fulton County, Georgia","Households With a Computer",403226
+"213","2020","Fulton County, Georgia","Households with a Broadband Internet Subscription",380756
+"214","2021","Fulton County, Georgia","Households With Internet",467735
+"215","2021","Fulton County, Georgia","Households With a Computer",455284
+"216","2021","Fulton County, Georgia","Households with a Broadband Internet Subscription",436840
+"217","2013","Gwinnett County, Georgia","Households With Internet",269361
+"218","2013","Gwinnett County, Georgia","Households With a Computer",250154
+"219","2013","Gwinnett County, Georgia","Households with a Broadband Internet Subscription",222631
+"220","2014","Gwinnett County, Georgia","Households With Internet",278652
+"221","2014","Gwinnett County, Georgia","Households With a Computer",259456
+"222","2014","Gwinnett County, Georgia","Households with a Broadband Internet Subscription",233456
+"223","2015","Gwinnett County, Georgia","Households With Internet",284631
+"224","2015","Gwinnett County, Georgia","Households With a Computer",269311
+"225","2015","Gwinnett County, Georgia","Households with a Broadband Internet Subscription",240939
+"226","2016","Gwinnett County, Georgia","Households With Internet",290405
+"227","2016","Gwinnett County, Georgia","Households With a Computer",277786
+"228","2016","Gwinnett County, Georgia","Households with a Broadband Internet Subscription",255099
+"229","2017","Gwinnett County, Georgia","Households With Internet",292679
+"230","2017","Gwinnett County, Georgia","Households With a Computer",281633
+"231","2017","Gwinnett County, Georgia","Households with a Broadband Internet Subscription",262027
+"232","2018","Gwinnett County, Georgia","Households With Internet",297658
+"233","2018","Gwinnett County, Georgia","Households With a Computer",285143
+"234","2018","Gwinnett County, Georgia","Households with a Broadband Internet Subscription",267613
+"235","2019","Gwinnett County, Georgia","Households With Internet",301471
+"236","2019","Gwinnett County, Georgia","Households With a Computer",290909
+"237","2019","Gwinnett County, Georgia","Households with a Broadband Internet Subscription",269010
+"238","2020","Gwinnett County, Georgia","Households With Internet",299683
+"239","2020","Gwinnett County, Georgia","Households With a Computer",288756
+"240","2020","Gwinnett County, Georgia","Households with a Broadband Internet Subscription",270624
+"241","2021","Gwinnett County, Georgia","Households With Internet",323014
+"242","2021","Gwinnett County, Georgia","Households With a Computer",318554
+"243","2021","Gwinnett County, Georgia","Households with a Broadband Internet Subscription",301873
+"244","2013","Henry County, Georgia","Households With Internet",70852
+"245","2013","Henry County, Georgia","Households With a Computer",65914
+"246","2013","Henry County, Georgia","Households with a Broadband Internet Subscription",61466
+"247","2014","Henry County, Georgia","Households With Internet",68524
+"248","2014","Henry County, Georgia","Households With a Computer",63568
+"249","2014","Henry County, Georgia","Households with a Broadband Internet Subscription",56387
+"250","2015","Henry County, Georgia","Households With Internet",71681
+"251","2015","Henry County, Georgia","Households With a Computer",67636
+"252","2015","Henry County, Georgia","Households with a Broadband Internet Subscription",63435
+"253","2016","Henry County, Georgia","Households With Internet",74473
+"254","2016","Henry County, Georgia","Households With a Computer",71429
+"255","2016","Henry County, Georgia","Households with a Broadband Internet Subscription",67078
+"256","2017","Henry County, Georgia","Households With Internet",77170
+"257","2017","Henry County, Georgia","Households With a Computer",73116
+"258","2017","Henry County, Georgia","Households with a Broadband Internet Subscription",70098
+"259","2018","Henry County, Georgia","Households With Internet",75926
+"260","2018","Henry County, Georgia","Households With a Computer",73627
+"261","2018","Henry County, Georgia","Households with a Broadband Internet Subscription",64789
+"262","2019","Henry County, Georgia","Households With Internet",79550
+"263","2019","Henry County, Georgia","Households With a Computer",76427
+"264","2019","Henry County, Georgia","Households with a Broadband Internet Subscription",70290
+"265","2020","Henry County, Georgia","Households With Internet",78204
+"266","2020","Henry County, Georgia","Households With a Computer",75455
+"267","2020","Henry County, Georgia","Households with a Broadband Internet Subscription",69614
+"268","2021","Henry County, Georgia","Households With Internet",84978
+"269","2021","Henry County, Georgia","Households With a Computer",81754
+"270","2021","Henry County, Georgia","Households with a Broadband Internet Subscription",79661
+"271","2013","Rockdale County, Georgia","Households With Internet",29150
+"272","2013","Rockdale County, Georgia","Households With a Computer",24770
+"273","2013","Rockdale County, Georgia","Households with a Broadband Internet Subscription",20793
+"274","2014","Rockdale County, Georgia","Households With Internet",29707
+"275","2014","Rockdale County, Georgia","Households With a Computer",26351
+"276","2014","Rockdale County, Georgia","Households with a Broadband Internet Subscription",21768
+"277","2015","Rockdale County, Georgia","Households With Internet",31231
+"278","2015","Rockdale County, Georgia","Households With a Computer",29351
+"279","2015","Rockdale County, Georgia","Households with a Broadband Internet Subscription",24304
+"280","2016","Rockdale County, Georgia","Households With Internet",30381
+"281","2016","Rockdale County, Georgia","Households With a Computer",28593
+"282","2016","Rockdale County, Georgia","Households with a Broadband Internet Subscription",22685
+"283","2017","Rockdale County, Georgia","Households With Internet",29849
+"284","2017","Rockdale County, Georgia","Households With a Computer",28365
+"285","2017","Rockdale County, Georgia","Households with a Broadband Internet Subscription",25134
+"286","2018","Rockdale County, Georgia","Households With Internet",31460
+"287","2018","Rockdale County, Georgia","Households With a Computer",30252
+"288","2018","Rockdale County, Georgia","Households with a Broadband Internet Subscription",26886
+"289","2019","Rockdale County, Georgia","Households With Internet",32792
+"290","2019","Rockdale County, Georgia","Households With a Computer",30782
+"291","2019","Rockdale County, Georgia","Households with a Broadband Internet Subscription",28111
+"292","2020","Rockdale County, Georgia","Households With Internet",31465
+"293","2020","Rockdale County, Georgia","Households With a Computer",29919
+"294","2020","Rockdale County, Georgia","Households with a Broadband Internet Subscription",26684
+"295","2021","Rockdale County, Georgia","Households With Internet",33141
+"296","2021","Rockdale County, Georgia","Households With a Computer",31495
+"297","2021","Rockdale County, Georgia","Households with a Broadband Internet Subscription",28991

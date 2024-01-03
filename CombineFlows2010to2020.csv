@@ -1,0 +1,1453 @@
+From,To,Est,SD,Year
+clayton county,cobb county,1836,342.887653198238,2010
+clayton county,fulton county,4324,497.308688503827,2010
+clayton county,dekalb county,2828,469.342674235886,2010
+clayton county,gwinnett county,902,244.398646428531,2010
+clayton county,henry county,4097,570.26350833324,2010
+clayton county,douglas county,529,213.392848001031,2010
+clayton county,forsyth county,20,13.3750503020589,2010
+clayton county,fayette county,1037,235.279293949855,2010
+clayton county,cherokee county,194,85.7219132995595,2010
+clayton county,rockdale county,385,138.614157675883,2010
+clayton county,outside,9212,654.548754765854,2010
+cobb county,clayton county,548,140.438028171619,2010
+cobb county,fulton county,6331,519.803091284563,2010
+cobb county,dekalb county,2736,383.620760936326,2010
+cobb county,gwinnett county,2041,306.410243283532,2010
+cobb county,henry county,259,134.358459852501,2010
+cobb county,douglas county,3150,464.479019580592,2010
+cobb county,forsyth county,465,158.676733128972,2010
+cobb county,fayette county,0,0,2010
+cobb county,cherokee county,4187,488.797292857063,2010
+cobb county,rockdale county,68,37.0853667466179,2010
+cobb county,outside,30212,1237.99941159825,2010
+fulton county,clayton county,7874,798.247320300153,2010
+fulton county,cobb county,9213,604.309090920299,2010
+fulton county,dekalb county,19713,1252.39107373825,2010
+fulton county,gwinnett county,4652,536.825882578092,2010
+fulton county,henry county,1146,304.586372787797,2010
+fulton county,douglas county,1153,258.381653562502,2010
+fulton county,forsyth county,2009,262.637351385884,2010
+fulton county,fayette county,1042,200.017797698972,2010
+fulton county,cherokee county,1769,276.620358519855,2010
+fulton county,rockdale county,413,164.148344616178,2010
+fulton county,outside,53015,1470.15942089708,2010
+dekalb county,clayton county,2521,376.325278953385,2010
+dekalb county,cobb county,3683,502.172343159122,2010
+dekalb county,fulton county,12473,713.741320664417,2010
+dekalb county,gwinnett county,10194,855.39526249986,2010
+dekalb county,henry county,1541,288.171538326179,2010
+dekalb county,douglas county,1158,407.331077380885,2010
+dekalb county,forsyth county,656,172.051783431031,2010
+dekalb county,fayette county,345,100.312877265442,2010
+dekalb county,cherokee county,338,111.256100239854,2010
+dekalb county,rockdale county,1952,308.842070611179,2010
+dekalb county,outside,27029,1091.70055171331,2010
+gwinnett county,clayton county,678,175.09156759059,2010
+gwinnett county,cobb county,2143,286.347667830443,2010
+gwinnett county,fulton county,5421,452.927839774268,2010
+gwinnett county,dekalb county,6558,690.63896105177,2010
+gwinnett county,henry county,846,222.512200479708,2010
+gwinnett county,douglas county,546,209.74510700956,2010
+gwinnett county,forsyth county,1556,255.341869402943,2010
+gwinnett county,fayette county,323,128.278891533383,2010
+gwinnett county,cherokee county,573,173.267697094854,2010
+gwinnett county,rockdale county,509,258.989610394414,2010
+gwinnett county,outside,31906,1372.55178620065,2010
+henry county,clayton county,1959,378.149149449121,2010
+henry county,cobb county,812,171.443826599119,2010
+henry county,fulton county,876,191.506402052207,2010
+henry county,dekalb county,1135,291.819279317649,2010
+henry county,gwinnett county,52,21.2784891169119,2010
+henry county,douglas county,199,110.648143407942,2010
+henry county,forsyth county,227,125.847064205736,2010
+henry county,fayette county,333,129.494805197207,2010
+henry county,cherokee county,190,134.358459852501,2010
+henry county,rockdale county,160,78.4264313166183,2010
+henry county,outside,8309,652.026545584696,2010
+douglas county,clayton county,204,96.0571794420596,2010
+douglas county,cobb county,1910,436.51300531265,2010
+douglas county,fulton county,867,179.347265413972,2010
+douglas county,dekalb county,505,252.302085243384,2010
+douglas county,gwinnett county,264,175.699524422501,2010
+douglas county,henry county,138,103.960618256913,2010
+douglas county,forsyth county,14,13.9830071339707,2010
+douglas county,fayette county,17,17.0227912935295,2010
+douglas county,cherokee county,65,38.9092372423532,2010
+douglas county,rockdale county,0,0,2010
+douglas county,outside,6914,642.515460937484,2010
+forsyth county,clayton county,0,0,2010
+forsyth county,cobb county,301,117.943625390883,2010
+forsyth county,fulton county,1145,237.711121277502,2010
+forsyth county,dekalb county,251,79.6423449804418,2010
+forsyth county,gwinnett county,911,185.42683373309,2010
+forsyth county,henry county,39,27.9660142679414,2010
+forsyth county,douglas county,0,0,2010
+forsyth county,fayette county,32,21.2784891169119,2010
+forsyth county,cherokee county,179,52.8922443763239,2010
+forsyth county,rockdale county,0,0,2010
+forsyth county,outside,6504,559.050604706009,2010
+fayette county,clayton county,529,212.176934337208,2010
+fayette county,cobb county,309,116.119754895148,2010
+fayette county,fulton county,1116,269.324876536914,2010
+fayette county,dekalb county,342,124.023193710001,2010
+fayette county,gwinnett county,87,54.1081580401475,2010
+fayette county,henry county,256,123.415236878089,2010
+fayette county,douglas county,18,16.4148344616178,2010
+fayette county,forsyth county,67,69.9150356698535,2010
+fayette county,cherokee county,27,19.4546186211766,2010
+fayette county,rockdale county,0,0,2010
+fayette county,outside,6569,585.880210932702,2010
+cherokee county,clayton county,129,74.1707334932359,2010
+cherokee county,cobb county,2991,407.331077380885,2010
+cherokee county,fulton county,838,162.324474120442,2010
+cherokee county,dekalb county,327,105.784488752648,2010
+cherokee county,gwinnett county,255,86.3298701314713,2010
+cherokee county,henry county,0,0,2010
+cherokee county,douglas county,64,48.6365465529416,2010
+cherokee county,forsyth county,279,112.472013903677,2010
+cherokee county,fayette county,35,36.4774099147062,2010
+cherokee county,rockdale county,0,0,2010
+cherokee county,outside,7266,602.555152873323,2010
+rockdale county,clayton county,175,67.4832083422064,2010
+rockdale county,cobb county,260,113.079970735589,2010
+rockdale county,fulton county,187,63.8354673507358,2010
+rockdale county,dekalb county,904,244.398646428531,2010
+rockdale county,gwinnett county,930,235.887250781767,2010
+rockdale county,henry county,126,54.7161148720593,2010
+rockdale county,douglas county,116,84.505999635736,2010
+rockdale county,forsyth county,0,0,2010
+rockdale county,fayette county,88,66.8752515102946,2010
+rockdale county,cherokee county,19,18.8466617892649,2010
+rockdale county,outside,6763,826.00081312559,2010
+outside,clayton county,13538,832.035958165251,2010
+outside,cobb county,39545,1456.57880320935,2010
+outside,fulton county,58140,1695.83169636477,2010
+outside,dekalb county,36447,1460.82361823168,2010
+outside,gwinnett county,41040,1584.17452486514,2010
+outside,henry county,11963,922.477484658479,2010
+outside,douglas county,9236,760.881231620605,2010
+outside,forsyth county,6735,539.61434680162,2010
+outside,fayette county,5074,460.095207340524,2010
+outside,cherokee county,8358,605.726097474214,2010
+outside,rockdale county,6112,599.210778190977,2010
+clayton county,cobb county,1515,244.398646428531,2011
+clayton county,fulton county,4727,628.019407364858,2011
+clayton county,dekalb county,2576,432.257307489268,2011
+clayton county,gwinnett county,574,218.256502656325,2011
+clayton county,henry county,3903,645.042198658387,2011
+clayton county,douglas county,692,255.949826234855,2011
+clayton county,forsyth county,25,16.4148344616178,2011
+clayton county,fayette county,1006,240.142948605149,2011
+clayton county,cherokee county,186,71.130949333677,2011
+clayton county,rockdale county,430,158.06877629706,2011
+clayton county,outside,10132,958.124922357799,2011
+cobb county,clayton county,935,257.165739898678,2011
+cobb county,fulton county,6724,507.035997814416,2011
+cobb county,dekalb county,3246,395.17194074265,2011
+cobb county,gwinnett county,1894,266.285092377355,2011
+cobb county,henry county,286,118.551582222795,2011
+cobb county,douglas county,2896,406.723120548974,2011
+cobb county,forsyth county,415,140.438028171619,2011
+cobb county,fayette county,5,4.86365465529416,2011
+cobb county,cherokee county,3867,513.115566133533,2011
+cobb county,rockdale county,50,28.5739710998532,2011
+cobb county,outside,30819,1439.57887565376,2011
+fulton county,clayton county,7097,801.287104459712,2011
+fulton county,cobb county,9708,746.570989587653,2011
+fulton county,dekalb county,19036,1079.7313334753,2011
+fulton county,gwinnett county,4741,584.24651546721,2011
+fulton county,henry county,1016,240.142948605149,2011
+fulton county,douglas county,970,185.42683373309,2011
+fulton county,forsyth county,2052,297.290890804855,2011
+fulton county,fayette county,918,190.290488388384,2011
+fulton county,cherokee county,1389,271.148747032649,2011
+fulton county,rockdale county,252,114.295884399413,2011
+fulton county,outside,52455,1659.23571437037,2011
+dekalb county,clayton county,2835,437.120962144562,2011
+dekalb county,cobb county,3791,503.388256822945,2011
+dekalb county,fulton county,12951,927.74212549736,2011
+dekalb county,gwinnett county,9454,818.309895753242,2011
+dekalb county,henry county,1180,269.324876536914,2011
+dekalb county,douglas county,646,172.659740262943,2011
+dekalb county,forsyth county,706,196.370056707502,2011
+dekalb county,fayette county,303,96.0571794420596,2011
+dekalb county,cherokee county,321,130.71071886103,2011
+dekalb county,rockdale county,1976,341.063782702503,2011
+dekalb county,outside,25564,1248.8414485075,2011
+gwinnett county,clayton county,718,186.034790565001,2011
+gwinnett county,cobb county,1799,252.302085243384,2011
+gwinnett county,fulton county,4815,384.228717768238,2011
+gwinnett county,dekalb county,6485,614.036400230887,2011
+gwinnett county,henry county,879,228.591768798825,2011
+gwinnett county,douglas county,450,187.250704228825,2011
+gwinnett county,forsyth county,1287,212.784891169119,2011
+gwinnett county,fayette county,361,161.716517288531,2011
+gwinnett county,cherokee county,432,229.199725630737,2011
+gwinnett county,rockdale county,452,161.108560456619,2011
+gwinnett county,outside,32520,1543.11672058403,2011
+henry county,clayton county,1970,393.348070246915,2011
+henry county,cobb county,889,212.176934337208,2011
+henry county,fulton county,1161,252.910042075296,2011
+henry county,dekalb county,994,279.660142679414,2011
+henry county,gwinnett county,156,65.0513810145593,2011
+henry county,douglas county,214,127.670934701472,2011
+henry county,forsyth county,224,131.318675692942,2011
+henry county,fayette county,317,124.023193710001,2011
+henry county,cherokee county,237,145.909639658825,2011
+henry county,rockdale county,143,82.0741723080889,2011
+henry county,outside,7696,868.797115243908,2011
+douglas county,clayton county,228,105.176531920736,2011
+douglas county,cobb county,2272,485.757508697504,2011
+douglas county,fulton county,826,181.779092741619,2011
+douglas county,dekalb county,437,201.233711362796,2011
+douglas county,gwinnett county,265,158.06877629706,2011
+douglas county,henry county,385,171.443826599119,2011
+douglas county,forsyth county,50,44.3808487295592,2011
+douglas county,fayette county,32,24.9262301083826,2011
+douglas county,cherokee county,30,20.6705322850002,2011
+douglas county,rockdale county,169,124.631150541913,2011
+douglas county,outside,7627,846.033697152886,2011
+forsyth county,clayton county,1,1.82387049573531,2011
+forsyth county,cobb county,333,88.1537406272066,2011
+forsyth county,fulton county,970,209.137150177649,2011
+forsyth county,dekalb county,241,79.6423449804418,2011
+forsyth county,gwinnett county,855,178.131351750148,2011
+forsyth county,henry county,0,59.5797695273534,2011
+forsyth county,douglas county,0,59.5797695273534,2011
+forsyth county,fayette county,30,20.0625754530884,2011
+forsyth county,cherokee county,452,319.177336753679,2011
+forsyth county,rockdale county,0,59.5797695273534,2011
+forsyth county,outside,5313,781.442842532236,2011
+fayette county,clayton county,458,159.284689960884,2011
+fayette county,cobb county,474,184.818876901178,2011
+fayette county,fulton county,1011,245.614560092355,2011
+fayette county,dekalb county,371,136.790287180148,2011
+fayette county,gwinnett county,84,63.8354673507358,2011
+fayette county,henry county,132,70.5229925017652,2011
+fayette county,douglas county,55,51.6763307125004,2011
+fayette county,forsyth county,87,66.8752515102946,2011
+fayette county,cherokee county,33,20.0625754530884,2011
+fayette county,rockdale county,0,59.5797695273534,2011
+fayette county,outside,6997,795.801559538875,2011
+cherokee county,clayton county,157,82.0741723080889,2011
+cherokee county,cobb county,3602,467.518803740151,2011
+cherokee county,fulton county,741,165.364258280001,2011
+cherokee county,dekalb county,381,150.165337482207,2011
+cherokee county,gwinnett county,335,167.188128775737,2011
+cherokee county,henry county,0,59.5797695273534,2011
+cherokee county,douglas county,66,55.324071703971,2011
+cherokee county,forsyth county,278,131.926632524854,2011
+cherokee county,fayette county,0,59.5797695273534,2011
+cherokee county,rockdale county,0,0,2011
+cherokee county,outside,6973,838.920731602316,2011
+rockdale county,clayton county,132,68.6991220060299,2011
+rockdale county,cobb county,305,97.2730931058831,2011
+rockdale county,fulton county,187,66.8752515102946,2011
+rockdale county,dekalb county,1125,305.194329619708,2011
+rockdale county,gwinnett county,712,204.881452354266,2011
+rockdale county,henry county,112,50.4604170486769,2011
+rockdale county,douglas county,57,37.0853667466179,2011
+rockdale county,forsyth county,3,3.03978415955885,2011
+rockdale county,fayette county,75,71.7389061655888,2011
+rockdale county,cherokee county,0,0,2011
+rockdale county,outside,6776,934.107421478894,2011
+outside,clayton county,12672,1090.44104078429,2011
+outside,cobb county,38724,1775.39852712739,2011
+outside,fulton county,52887,1940.96309962617,2011
+outside,dekalb county,33256,1628.85250754526,2011
+outside,gwinnett county,37308,1872.47368332078,2011
+outside,henry county,9915,1129.89345584404,2011
+outside,douglas county,8234,1009.31546021232,2011
+outside,forsyth county,7182,857.75276162258,2011
+outside,fayette county,4900,795.164076265097,2011
+outside,cherokee county,8016,915.849788941246,2011
+outside,rockdale county,6021,790.172699715904,2011
+clayton county,cobb county,1496,295.46702030912,2012
+clayton county,fulton county,5152,671.184342430593,2012
+clayton county,dekalb county,2478,562.360069518387,2012
+clayton county,gwinnett county,630,231.631552958384,2012
+clayton county,henry county,3973,605.525004584122,2012
+clayton county,douglas county,514,183.602963237354,2012
+clayton county,forsyth county,53,28.5739710998532,2012
+clayton county,fayette county,1138,258.381653562502,2012
+clayton county,cherokee county,203,90.5855679548536,2012
+clayton county,rockdale county,609,216.43263216059,2012
+clayton county,outside,9691,771.355158389181,2012
+cobb county,clayton county,995,249.870257915737,2012
+cobb county,fulton county,7306,576.951033484269,2012
+cobb county,dekalb county,3320,438.336875808386,2012
+cobb county,gwinnett county,1908,267.501006041179,2012
+cobb county,henry county,355,164.148344616178,2012
+cobb county,douglas county,2956,443.808487295592,2012
+cobb county,forsyth county,448,155.636948969413,2012
+cobb county,fayette county,44,31.0057984275002,2012
+cobb county,cherokee county,4111,505.820084150592,2012
+cobb county,rockdale county,58,34.0455825870591,2012
+cobb county,outside,32236,1380.92506405677,2012
+fulton county,clayton county,7258,640.786500835005,2012
+fulton county,cobb county,9688,784.872269998094,2012
+fulton county,dekalb county,16623,1138.09518933883,2012
+fulton county,gwinnett county,4632,547.161148720593,2012
+fulton county,henry county,926,277.836272183679,2012
+fulton county,douglas county,1293,230.415639294561,2012
+fulton county,forsyth county,1943,244.398646428531,2012
+fulton county,fayette county,1006,212.176934337208,2012
+fulton county,cherokee county,1501,272.972617528384,2012
+fulton county,rockdale county,178,159.892646792795,2012
+fulton county,outside,50587,1499.05475687156,2012
+dekalb county,clayton county,2846,480.285897210298,2012
+dekalb county,cobb county,4043,542.297494065298,2012
+dekalb county,fulton county,13195,832.900859719124,2012
+dekalb county,gwinnett county,8793,787.912054157653,2012
+dekalb county,henry county,992,220.688329983972,2012
+dekalb county,douglas county,641,165.364258280001,2012
+dekalb county,forsyth county,666,204.273495522355,2012
+dekalb county,fayette county,319,91.8014816186772,2012
+dekalb county,cherokee county,222,111.256100239854,2012
+dekalb county,rockdale county,1664,339.239912206767,2012
+dekalb county,outside,24217,1008.10939171142,2012
+gwinnett county,clayton county,688,208.529193345737,2012
+gwinnett county,cobb county,1615,296.074977141032,2012
+gwinnett county,fulton county,5601,564.183940014122,2012
+gwinnett county,dekalb county,6152,561.752112686475,2012
+gwinnett county,henry county,955,245.614560092355,2012
+gwinnett county,douglas county,298,124.631150541913,2012
+gwinnett county,forsyth county,1083,228.591768798825,2012
+gwinnett county,fayette county,124,63.8354673507358,2012
+gwinnett county,cherokee county,398,204.273495522355,2012
+gwinnett county,rockdale county,430,151.989207977942,2012
+gwinnett county,outside,33213,1402.35229469183,2012
+henry county,clayton county,1947,427.393652833974,2012
+henry county,cobb county,857,263.245308217796,2012
+henry county,fulton county,1124,313.097768434561,2012
+henry county,dekalb county,927,287.563581494267,2012
+henry county,gwinnett county,148,69.3070788379417,2012
+henry county,douglas county,153,89.9776111229419,2012
+henry county,forsyth county,154,110.04018657603,2012
+henry county,fayette county,287,117.943625390883,2012
+henry county,cherokee county,65,41.9490214019121,2012
+henry county,rockdale county,131,79.6423449804418,2012
+henry county,outside,7299,667.256373078079,2012
+douglas county,clayton county,182,90.5855679548536,2012
+douglas county,cobb county,2273,350.791092013091,2012
+douglas county,fulton county,841,189.682531556472,2012
+douglas county,dekalb county,541,263.245308217796,2012
+douglas county,gwinnett county,131,60.7956831911769,2012
+douglas county,henry county,362,198.801884035149,2012
+douglas county,forsyth county,42,29.7898847636767,2012
+douglas county,fayette county,16,16.4148344616178,2012
+douglas county,cherokee county,17,16.4148344616178,2012
+douglas county,rockdale county,167,106.39244558456,2012
+douglas county,outside,7852,689.041226255875,2012
+forsyth county,clayton county,0,18.8466617892649,2012
+forsyth county,cobb county,350,97.2730931058831,2012
+forsyth county,fulton county,1140,231.631552958384,2012
+forsyth county,dekalb county,191,68.6991220060299,2012
+forsyth county,gwinnett county,974,210.961020673384,2012
+forsyth county,henry county,0,18.8466617892649,2012
+forsyth county,douglas county,0,18.8466617892649,2012
+forsyth county,fayette county,42,29.1819279317649,2012
+forsyth county,cherokee county,471,255.949826234855,2012
+forsyth county,rockdale county,0,18.8466617892649,2012
+forsyth county,outside,5925,637.210399583839,2012
+fayette county,clayton county,601,201.841668194707,2012
+fayette county,cobb county,538,203.057581858531,2012
+fayette county,fulton county,1264,270.540790200737,2012
+fayette county,dekalb county,250,108.824272912207,2012
+fayette county,gwinnett county,61,52.2842875444122,2012
+fayette county,henry county,255,128.278891533383,2012
+fayette county,douglas county,49,31.613755259412,2012
+fayette county,forsyth county,122,72.9548198294123,2012
+fayette county,cherokee county,27,18.8466617892649,2012
+fayette county,rockdale county,0,18.8466617892649,2012
+fayette county,outside,6935,694.837477730353,2012
+cherokee county,clayton county,279,126.455021037648,2012
+cherokee county,cobb county,3761,553.24071703971,2012
+cherokee county,fulton county,542,108.216316080295,2012
+cherokee county,dekalb county,371,184.210920069266,2012
+cherokee county,gwinnett county,564,288.77949515809,2012
+cherokee county,henry county,0,18.8466617892649,2012
+cherokee county,douglas county,47,37.6933235785297,2012
+cherokee county,forsyth county,185,93.6253521144125,2012
+cherokee county,fayette county,0,18.8466617892649,2012
+cherokee county,rockdale county,0,0,2012
+cherokee county,outside,7032,599.912012618748,2012
+rockdale county,clayton county,96,51.0683738805886,2012
+rockdale county,cobb county,235,80.8582586442653,2012
+rockdale county,fulton county,224,71.130949333677,2012
+rockdale county,dekalb county,916,201.841668194707,2012
+rockdale county,gwinnett county,602,188.466617892649,2012
+rockdale county,henry county,60,37.0853667466179,2012
+rockdale county,douglas county,59,38.9092372423532,2012
+rockdale county,forsyth county,4,4.25569782338239,2012
+rockdale county,fayette county,111,86.937826963383,2012
+rockdale county,cherokee county,0,0,2012
+rockdale county,outside,6287,685.073479346584,2012
+outside,clayton county,12345,877.044897734431,2012
+outside,cobb county,38769,1595.61012629799,2012
+outside,fulton county,51939,1598.83238210635,2012
+outside,dekalb county,33712,1466.4334670682,2012
+outside,gwinnett county,35392,1701.88097962973,2012
+outside,henry county,8961,847.257156493087,2012
+outside,douglas county,7290,773.917823858606,2012
+outside,forsyth county,6498,620.965334359104,2012
+outside,fayette county,5120,579.044653893432,2012
+outside,cherokee county,7734,726.573022573592,2012
+outside,rockdale county,5719,592.077232187274,2012
+clayton county,cobb county,1298,276.012401687943,2013
+clayton county,fulton county,5760,571.479421997063,2013
+clayton county,dekalb county,1876,395.17194074265,2013
+clayton county,gwinnett county,369,165.364258280001,2013
+clayton county,henry county,2993,606.740918247946,2013
+clayton county,douglas county,464,184.818876901178,2013
+clayton county,forsyth county,78,40.7331077380886,2013
+clayton county,fayette county,865,234.063380286031,2013
+clayton county,cherokee county,4,4.25569782338239,2013
+clayton county,rockdale county,285,162.932430952354,2013
+clayton county,outside,9410,738.602999449125,2013
+cobb county,clayton county,974,262.637351385884,2013
+cobb county,fulton county,7563,618.900054886181,2013
+cobb county,dekalb county,3424,435.297091648827,2013
+cobb county,gwinnett county,1738,303.370459123973,2013
+cobb county,henry county,587,223.120157311619,2013
+cobb county,douglas county,2218,512.507609301622,2013
+cobb county,forsyth county,400,141.653941835442,2013
+cobb county,fayette county,34,29.7898847636767,2013
+cobb county,cherokee county,2993,460.831278589121,2013
+cobb county,rockdale county,28,23.710316444559,2013
+cobb county,outside,30346,1279.30673362091,2013
+fulton county,clayton county,7775,805.542802283095,2013
+fulton county,cobb county,10169,653.553594305152,2013
+fulton county,dekalb county,15967,953.276312437654,2013
+fulton county,gwinnett county,4745,533.786098418534,2013
+fulton county,henry county,909,254.12595573912,2013
+fulton county,douglas county,1344,266.893049209267,2013
+fulton county,forsyth county,2120,300.938631796326,2013
+fulton county,fayette county,713,164.148344616178,2013
+fulton county,cherokee county,1651,359.302487659856,2013
+fulton county,rockdale county,240,134.358459852501,2013
+fulton county,outside,50046,1493.14457833702,2013
+dekalb county,clayton county,3099,480.285897210298,2013
+dekalb county,cobb county,3871,447.456228287062,2013
+dekalb county,fulton county,12954,884.577190431624,2013
+dekalb county,gwinnett county,9249,1052.37327603927,2013
+dekalb county,henry county,633,195.76209987559,2013
+dekalb county,douglas county,570,143.477812331178,2013
+dekalb county,forsyth county,623,172.659740262943,2013
+dekalb county,fayette county,225,71.130949333677,2013
+dekalb county,cherokee county,68,29.1819279317649,2013
+dekalb county,rockdale county,1687,313.705725266473,2013
+dekalb county,outside,24784,1024.9396719543,2013
+gwinnett county,clayton county,646,164.148344616178,2013
+gwinnett county,cobb county,1749,248.654344251914,2013
+gwinnett county,fulton county,5372,623.763709541475,2013
+gwinnett county,dekalb county,6396,653.553594305152,2013
+gwinnett county,henry county,791,207.313279681913,2013
+gwinnett county,douglas county,222,88.1537406272066,2013
+gwinnett county,forsyth county,1109,203.057581858531,2013
+gwinnett county,fayette county,144,67.4832083422064,2013
+gwinnett county,cherokee county,347,185.42683373309,2013
+gwinnett county,rockdale county,361,125.847064205736,2013
+gwinnett county,outside,32669,1402.99313925959,2013
+henry county,clayton county,2293,376.325278953385,2013
+henry county,cobb county,890,282.091970007061,2013
+henry county,fulton county,1320,376.325278953385,2013
+henry county,dekalb county,1021,299.114761300591,2013
+henry county,gwinnett county,419,151.989207977942,2013
+henry county,douglas county,234,123.415236878089,2013
+henry county,forsyth county,181,133.750503020589,2013
+henry county,fayette county,312,114.295884399413,2013
+henry county,cherokee county,49,42.5569782338239,2013
+henry county,rockdale county,157,111.256100239854,2013
+henry county,outside,6677,611.181697283556,2013
+douglas county,clayton county,107,66.8752515102946,2013
+douglas county,cobb county,2332,471.774501563533,2013
+douglas county,fulton county,1001,220.080373152061,2013
+douglas county,dekalb county,438,154.421035305589,2013
+douglas county,gwinnett county,96,65.0513810145593,2013
+douglas county,henry county,317,186.034790565001,2013
+douglas county,forsyth county,67,37.6933235785297,2013
+douglas county,fayette county,126,88.7616974591183,2013
+douglas county,cherokee county,50,35.2614962508826,2013
+douglas county,rockdale county,160,107.608359248383,2013
+douglas county,outside,7219,596.116787162128,2013
+forsyth county,clayton county,8,7.903438814853,2013
+forsyth county,cobb county,361,107.608359248383,2013
+forsyth county,fulton county,1557,354.438833004562,2013
+forsyth county,dekalb county,152,60.1877263592652,2013
+forsyth county,gwinnett county,752,175.699524422501,2013
+forsyth county,henry county,0,18.8466617892649,2013
+forsyth county,douglas county,0,18.8466617892649,2013
+forsyth county,fayette county,0,18.8466617892649,2013
+forsyth county,cherokee county,549,290.603365653826,2013
+forsyth county,rockdale county,0,0,2013
+forsyth county,outside,5405,601.540643859915,2013
+fayette county,clayton county,525,231.023596126472,2013
+fayette county,cobb county,533,159.892646792795,2013
+fayette county,fulton county,1213,231.631552958384,2013
+fayette county,dekalb county,237,124.023193710001,2013
+fayette county,gwinnett county,114,68.0911651741182,2013
+fayette county,henry county,251,153.205121641766,2013
+fayette county,douglas county,37,30.3978415955885,2013
+fayette county,forsyth county,122,63.8354673507358,2013
+fayette county,cherokee county,28,17.0227912935295,2013
+fayette county,rockdale county,0,18.8466617892649,2013
+fayette county,outside,6933,674.870695791867,2013
+cherokee county,clayton county,203,84.505999635736,2013
+cherokee county,cobb county,3991,522.23491861221,2013
+cherokee county,fulton county,867,196.370056707502,2013
+cherokee county,dekalb county,274,141.653941835442,2013
+cherokee county,gwinnett county,556,294.251106645296,2013
+cherokee county,henry county,0,18.8466617892649,2013
+cherokee county,douglas county,65,50.4604170486769,2013
+cherokee county,forsyth county,154,93.6253521144125,2013
+cherokee county,fayette county,0,18.8466617892649,2013
+cherokee county,rockdale county,0,0,2013
+cherokee county,outside,6893,582.841654465067,2013
+rockdale county,clayton county,129,64.4434241826476,2013
+rockdale county,cobb county,184,72.9548198294123,2013
+rockdale county,fulton county,326,94.2333089463243,2013
+rockdale county,dekalb county,1007,231.023596126472,2013
+rockdale county,gwinnett county,554,186.034790565001,2013
+rockdale county,henry county,83,46.2047192252945,2013
+rockdale county,douglas county,49,35.8694530827944,2013
+rockdale county,forsyth county,0,0,2013
+rockdale county,fayette county,25,23.710316444559,2013
+rockdale county,cherokee county,0,0,2013
+rockdale county,outside,5336,605.182168814869,2013
+outside,clayton county,12050,887.427488366677,2013
+outside,cobb county,39049,1621.67353949129,2013
+outside,fulton county,49480,1598.28070123764,2013
+outside,dekalb county,32777,1405.82955044204,2013
+outside,gwinnett county,34190,1573.62565050931,2013
+outside,henry county,8064,769.84884911431,2013
+outside,douglas county,7075,832.178986451872,2013
+outside,forsyth county,6995,624.184278626422,2013
+outside,fayette county,5453,574.914081560421,2013
+outside,cherokee county,8485,771.87368739425,2013
+outside,rockdale county,6612,693.227026340877,2013
+clayton county,cobb county,1667,364.774099147062,2014
+clayton county,fulton county,5585,668.144558271035,2014
+clayton county,dekalb county,1410,268.10896287309,2014
+clayton county,gwinnett county,272,142.869855499266,2014
+clayton county,henry county,3408,714.349277496329,2014
+clayton county,douglas county,419,163.540387784266,2014
+clayton county,forsyth county,65,34.6535394189709,2014
+clayton county,fayette county,892,192.722315716031,2014
+clayton county,cherokee county,1,1.21591366382354,2014
+clayton county,rockdale county,257,151.381251146031,2014
+clayton county,outside,8692,646.902636952516,2014
+cobb county,clayton county,1123,395.17194074265,2014
+cobb county,fulton county,8046,559.92824219074,2014
+cobb county,dekalb county,3905,459.615364925298,2014
+cobb county,gwinnett county,1995,298.506804468679,2014
+cobb county,henry county,600,179.955222245884,2014
+cobb county,douglas county,1838,449.888055614709,2014
+cobb county,forsyth county,414,155.028992137501,2014
+cobb county,fayette county,128,86.3298701314713,2014
+cobb county,cherokee county,3200,440.768703136033,2014
+cobb county,rockdale county,29,23.710316444559,2014
+cobb county,outside,30145,1283.81598003331,2014
+fulton county,clayton county,7442,775.752917519418,2014
+fulton county,cobb county,10540,769.6733492003,2014
+fulton county,dekalb county,16155,854.787305667948,2014
+fulton county,gwinnett county,4604,548.985019216328,2014
+fulton county,henry county,1168,304.586372787797,2014
+fulton county,douglas county,1346,263.853265049708,2014
+fulton county,forsyth county,2129,334.376257551473,2014
+fulton county,fayette county,768,181.171135909707,2014
+fulton county,cherokee county,1524,316.13755259412,2014
+fulton county,rockdale county,274,138.006200843972,2014
+fulton county,outside,49966,1492.40710131497,2014
+dekalb county,clayton county,2784,462.047192252945,2014
+dekalb county,cobb county,4465,528.314486931328,2014
+dekalb county,fulton county,13961,947.196744118537,2014
+dekalb county,gwinnett county,8071,925.310298169713,2014
+dekalb county,henry county,676,200.017797698972,2014
+dekalb county,douglas county,418,102.744704593089,2014
+dekalb county,forsyth county,480,139.830071339707,2014
+dekalb county,fayette county,341,125.239107373825,2014
+dekalb county,cherokee county,52,24.3182732764708,2014
+dekalb county,rockdale county,1355,266.893049209267,2014
+dekalb county,outside,24956,1087.99595218171,2014
+gwinnett county,clayton county,453,143.477812331178,2014
+gwinnett county,cobb county,1877,294.251106645296,2014
+gwinnett county,fulton county,5330,524.058789107945,2014
+gwinnett county,dekalb county,5470,567.223724173681,2014
+gwinnett county,henry county,574,189.07457472456,2014
+gwinnett county,douglas county,165,128.278891533383,2014
+gwinnett county,forsyth county,1199,270.540790200737,2014
+gwinnett county,fayette county,52,29.1819279317649,2014
+gwinnett county,cherokee county,182,74.1707334932359,2014
+gwinnett county,rockdale county,378,131.926632524854,2014
+gwinnett county,outside,32662,1483.1871669326,2014
+henry county,clayton county,2431,486.365465529416,2014
+henry county,cobb county,761,309.450027443091,2014
+henry county,fulton county,1282,308.234113779267,2014
+henry county,dekalb county,675,184.818876901178,2014
+henry county,gwinnett county,534,172.659740262943,2014
+henry county,douglas county,227,124.023193710001,2014
+henry county,forsyth county,0,0,2014
+henry county,fayette county,436,155.636948969413,2014
+henry county,cherokee county,110,82.0741723080889,2014
+henry county,rockdale county,28,19.4546186211766,2014
+henry county,outside,7126,623.707414701912,2014
+douglas county,clayton county,102,50.4604170486769,2014
+douglas county,cobb county,1762,291.211322485738,2014
+douglas county,fulton county,837,164.148344616178,2014
+douglas county,dekalb county,310,100.920834097354,2014
+douglas county,gwinnett county,63,52.2842875444122,2014
+douglas county,henry county,372,208.529193345737,2014
+douglas county,forsyth county,66,37.6933235785297,2014
+douglas county,fayette county,129,93.0173952825007,2014
+douglas county,cherokee county,62,44.9888055614709,2014
+douglas county,rockdale county,148,112.472013903677,2014
+douglas county,outside,6882,642.569532819202,2014
+forsyth county,clayton county,12,11.5511798063236,2014
+forsyth county,cobb county,335,89.3696542910301,2014
+forsyth county,fulton county,1462,297.898847636767,2014
+forsyth county,dekalb county,108,42.5569782338239,2014
+forsyth county,gwinnett county,580,176.915438086325,2014
+forsyth county,henry county,0,0,2014
+forsyth county,douglas county,7,6.68752515102946,2014
+forsyth county,fayette county,0,18.2387049573531,2014
+forsyth county,cherokee county,589,290.603365653826,2014
+forsyth county,rockdale county,0,18.2387049573531,2014
+forsyth county,outside,5883,613.975300539105,2014
+fayette county,clayton county,460,167.796085607648,2014
+fayette county,cobb county,383,149.557380650295,2014
+fayette county,fulton county,1444,251.086171579561,2014
+fayette county,dekalb county,302,117.943625390883,2014
+fayette county,gwinnett county,91,42.5569782338239,2014
+fayette county,henry county,284,166.580171943825,2014
+fayette county,douglas county,58,43.7728918976474,2014
+fayette county,forsyth county,79,40.7331077380886,2014
+fayette county,cherokee county,11,12.7670934701472,2014
+fayette county,rockdale county,0,18.2387049573531,2014
+fayette county,outside,7173,706.751320644987,2014
+cherokee county,clayton county,204,86.937826963383,2014
+cherokee county,cobb county,3930,558.712328526916,2014
+cherokee county,fulton county,986,223.728114143531,2014
+cherokee county,dekalb county,380,157.460819465148,2014
+cherokee county,gwinnett county,809,473.598372059268,2014
+cherokee county,henry county,14,13.9830071339707,2014
+cherokee county,douglas county,94,44.9888055614709,2014
+cherokee county,forsyth county,157,114.903841231324,2014
+cherokee county,fayette county,0,18.2387049573531,2014
+cherokee county,rockdale county,0,0,2014
+cherokee county,outside,7105,606.911767832172,2014
+rockdale county,clayton county,77,49.8524602167651,2014
+rockdale county,cobb county,184,74.1707334932359,2014
+rockdale county,fulton county,340,117.943625390883,2014
+rockdale county,dekalb county,1454,526.490616435592,2014
+rockdale county,gwinnett county,408,169.011999271472,2014
+rockdale county,henry county,83,38.9092372423532,2014
+rockdale county,douglas county,47,35.2614962508826,2014
+rockdale county,forsyth county,5,5.47161148720593,2014
+rockdale county,fayette county,23,22.4944027807355,2014
+rockdale county,cherokee county,0,0,2014
+rockdale county,outside,4475,538.990677402594,2014
+outside,clayton county,12089,868.989813222062,2014
+outside,cobb county,38317,1586.35055825231,2014
+outside,fulton county,49574,1638.57280544185,2014
+outside,dekalb county,34778,1413.14174418832,2014
+outside,gwinnett county,33343,1515.99457813134,2014
+outside,henry county,8707,871.985598214684,2014
+outside,douglas county,7098,783.63701844625,2014
+outside,forsyth county,7512,632.851232547959,2014
+outside,fayette county,4675,533.276223661756,2014
+outside,cherokee county,10016,865.730101706277,2014
+outside,rockdale county,6580,707.169836220474,2014
+clayton county,cobb county,1652,293.643149813385,2015
+clayton county,fulton county,5061,562.360069518387,2015
+clayton county,dekalb county,1405,246.830473756178,2015
+clayton county,gwinnett county,277,139.222114507795,2015
+clayton county,henry county,3451,772.713133359859,2015
+clayton county,douglas county,476,196.978013539413,2015
+clayton county,forsyth county,35,23.1023596126472,2015
+clayton county,fayette county,1108,229.807682462649,2015
+clayton county,cherokee county,35,30.3978415955885,2015
+clayton county,rockdale county,247,145.909639658825,2015
+clayton county,outside,8379,612.621420748608,2015
+cobb county,clayton county,1328,372.069581130003,2015
+cobb county,fulton county,8344,936.861477976037,2015
+cobb county,dekalb county,3611,477.246113050739,2015
+cobb county,gwinnett county,1656,265.069178713532,2015
+cobb county,henry county,476,170.227912935295,2015
+cobb county,douglas county,2090,421.314084514856,2015
+cobb county,forsyth county,519,128.886848365295,2015
+cobb county,fayette county,231,126.455021037648,2015
+cobb county,cherokee county,2754,366.597969642797,2015
+cobb county,rockdale county,39,23.1023596126472,2015
+cobb county,outside,30567,1237.91178246334,2015
+fulton county,clayton county,6635,626.195536869123,2015
+fulton county,cobb county,11000,821.957636744712,2015
+fulton county,dekalb county,15843,896.73632706986,2015
+fulton county,gwinnett county,4453,440.768703136033,2015
+fulton county,henry county,1079,302.762502292061,2015
+fulton county,douglas county,1390,316.745509426032,2015
+fulton county,forsyth county,2765,350.791092013091,2015
+fulton county,fayette county,707,179.347265413972,2015
+fulton county,cherokee county,1789,434.689134816915,2015
+fulton county,rockdale county,287,173.267697094854,2015
+fulton county,outside,51319,1521.84030552076,2015
+dekalb county,clayton county,3053,521.019004948386,2015
+dekalb county,cobb county,4092,467.518803740151,2015
+dekalb county,fulton county,13274,750.218730579123,2015
+dekalb county,gwinnett county,8090,944.76491679089,2015
+dekalb county,henry county,607,180.563179077796,2015
+dekalb county,douglas county,283,75.9946039889712,2015
+dekalb county,forsyth county,654,194.546186211766,2015
+dekalb county,fayette county,232,98.4890067697066,2015
+dekalb county,cherokee county,86,39.517194074265,2015
+dekalb county,rockdale county,1073,194.546186211766,2015
+dekalb county,outside,24705,1093.83531699025,2015
+gwinnett county,clayton county,553,139.830071339707,2015
+gwinnett county,cobb county,1946,293.035192981473,2015
+gwinnett county,fulton county,5091,488.797292857063,2015
+gwinnett county,dekalb county,6863,745.963032755741,2015
+gwinnett county,henry county,382,138.006200843972,2015
+gwinnett county,douglas county,343,198.801884035149,2015
+gwinnett county,forsyth county,1524,255.949826234855,2015
+gwinnett county,fayette county,53,22.4944027807355,2015
+gwinnett county,cherokee county,355,117.943625390883,2015
+gwinnett county,rockdale county,358,120.37545271853,2015
+gwinnett county,outside,32554,1320.97478242256,2015
+henry county,clayton county,2708,490.621163352798,2015
+henry county,cobb county,878,327.688732400444,2015
+henry county,fulton county,1070,248.046387420002,2015
+henry county,dekalb county,843,182.387049573531,2015
+henry county,gwinnett county,479,148.949423818384,2015
+henry county,douglas county,283,123.415236878089,2015
+henry county,forsyth county,17,12.7670934701472,2015
+henry county,fayette county,607,236.495207613678,2015
+henry county,cherokee county,78,75.9946039889712,2015
+henry county,rockdale county,27,18.8466617892649,2015
+henry county,outside,7389,618.981269723643,2015
+douglas county,clayton county,172,80.2503018123536,2015
+douglas county,cobb county,1431,226.159941471178,2015
+douglas county,fulton county,846,200.017797698972,2015
+douglas county,dekalb county,290,97.2730931058831,2015
+douglas county,gwinnett county,179,113.079970735589,2015
+douglas county,henry county,395,240.142948605149,2015
+douglas county,forsyth county,59,32.8296689232355,2015
+douglas county,fayette county,157,98.4890067697066,2015
+douglas county,cherokee county,88,61.4036400230887,2015
+douglas county,rockdale county,230,110.04018657603,2015
+douglas county,outside,6514,655.172430587136,2015
+forsyth county,clayton county,21,17.0227912935295,2015
+forsyth county,cobb county,504,134.358459852501,2015
+forsyth county,fulton county,1707,364.16614231515,2015
+forsyth county,dekalb county,131,43.1649350657356,2015
+forsyth county,gwinnett county,643,153.813078473678,2015
+forsyth county,henry county,0,18.2387049573531,2015
+forsyth county,douglas county,7,6.68752515102946,2015
+forsyth county,fayette county,0,18.2387049573531,2015
+forsyth county,cherokee county,555,223.120157311619,2015
+forsyth county,rockdale county,0,18.2387049573531,2015
+forsyth county,outside,6244,642.77801210982,2015
+fayette county,clayton county,380,136.182330348236,2015
+fayette county,cobb county,503,213.392848001031,2015
+fayette county,fulton county,1146,263.853265049708,2015
+fayette county,dekalb county,255,102.744704593089,2015
+fayette county,gwinnett county,133,58.9718126954416,2015
+fayette county,henry county,216,161.716517288531,2015
+fayette county,douglas county,16,17.0227912935295,2015
+fayette county,forsyth county,71,41.3410645700003,2015
+fayette county,cherokee county,9,11.5511798063236,2015
+fayette county,rockdale county,0,18.2387049573531,2015
+fayette county,outside,7600,756.475191694499,2015
+cherokee county,clayton county,138,69.3070788379417,2015
+cherokee county,cobb county,3772,477.854069882651,2015
+cherokee county,fulton county,1147,244.398646428531,2015
+cherokee county,dekalb county,424,153.813078473678,2015
+cherokee county,gwinnett county,773,414.018602531915,2015
+cherokee county,henry county,148,75.3866471570594,2015
+cherokee county,douglas county,41,31.613755259412,2015
+cherokee county,forsyth county,186,93.6253521144125,2015
+cherokee county,fayette county,0,18.2387049573531,2015
+cherokee county,rockdale county,1,2.43182732764708,2015
+cherokee county,outside,8319,700.732690152194,2015
+rockdale county,clayton county,106,53.5002012082357,2015
+rockdale county,cobb county,169,60.1877263592652,2015
+rockdale county,fulton county,430,153.813078473678,2015
+rockdale county,dekalb county,1769,669.96842876677,2015
+rockdale county,gwinnett county,511,206.705322850002,2015
+rockdale county,henry county,126,50.4604170486769,2015
+rockdale county,douglas county,42,46.2047192252945,2015
+rockdale county,forsyth county,6,6.68752515102946,2015
+rockdale county,fayette county,21,21.8864459488237,2015
+rockdale county,cherokee county,0,18.2387049573531,2015
+rockdale county,outside,4647,573.549194720739,2015
+outside,clayton county,12391,875.851232736986,2015
+outside,cobb county,38468,1644.16684584321,2015
+outside,fulton county,49820,1660.84971731533,2015
+outside,dekalb county,35921,1502.95056854238,2015
+outside,gwinnett county,36229,1851.0255902818,2015
+outside,henry county,8735,877.437580968383,2015
+outside,douglas county,5898,657.143405311743,2015
+outside,forsyth county,7842,627.600524895362,2015
+outside,fayette county,5147,557.140278407541,2015
+outside,cherokee county,10479,932.909510948492,2015
+outside,rockdale county,6125,738.115930459314,2015
+clayton county,cobb county,1570,313.705725266473,2016
+clayton county,fulton county,5336,603.701134088387,2016
+clayton county,dekalb county,1472,320.393250417503,2016
+clayton county,gwinnett county,430,161.716517288531,2016
+clayton county,henry county,4159,692.462831547505,2016
+clayton county,douglas county,190,77.2105176527947,2016
+clayton county,forsyth county,54,29.7898847636767,2016
+clayton county,fayette county,1149,213.392848001031,2016
+clayton county,cherokee county,52,44.3808487295592,2016
+clayton county,rockdale county,302,175.09156759059,2016
+clayton county,outside,7572,590.305421658041,2016
+cobb county,clayton county,955,237.711121277502,2016
+cobb county,fulton county,8143,724.684543638829,2016
+cobb county,dekalb county,2992,463.263105916768,2016
+cobb county,gwinnett county,1676,356.262703500297,2016
+cobb county,henry county,356,141.653941835442,2016
+cobb county,douglas county,2106,483.325681369857,2016
+cobb county,forsyth county,850,198.193927203237,2016
+cobb county,fayette county,255,151.989207977942,2016
+cobb county,cherokee county,3409,417.666343523386,2016
+cobb county,rockdale county,43,27.9660142679414,2016
+cobb county,outside,29673,1176.78929822791,2016
+fulton county,clayton county,7796,742.923248596182,2016
+fulton county,cobb county,10562,802.503018123536,2016
+fulton county,dekalb county,15344,719.212932151623,2016
+fulton county,gwinnett county,4463,408.546991044709,2016
+fulton county,henry county,1320,364.774099147062,2016
+fulton county,douglas county,1393,236.495207613678,2016
+fulton county,forsyth county,2776,341.063782702503,2016
+fulton county,fayette county,666,163.540387784266,2016
+fulton county,cherokee county,1521,321.609164081326,2016
+fulton county,rockdale county,159,66.8752515102946,2016
+fulton county,outside,49822,1429.88461332181,2016
+dekalb county,clayton county,3195,576.343076652357,2016
+dekalb county,cobb county,3655,412.19473203618,2016
+dekalb county,fulton county,12810,840.196341702065,2016
+dekalb county,gwinnett county,8734,1060.27671485413,2016
+dekalb county,henry county,835,209.137150177649,2016
+dekalb county,douglas county,260,97.8810499377949,2016
+dekalb county,forsyth county,633,141.653941835442,2016
+dekalb county,fayette county,224,85.1139564676477,2016
+dekalb county,cherokee county,66,33.4376257551473,2016
+dekalb county,rockdale county,994,206.09736601809,2016
+dekalb county,outside,25946,1108.62974529229,2016
+gwinnett county,clayton county,728,181.779092741619,2016
+gwinnett county,cobb county,2296,313.097768434561,2016
+gwinnett county,fulton county,4660,379.365063112944,2016
+gwinnett county,dekalb county,6386,528.314486931328,2016
+gwinnett county,henry county,508,158.676733128972,2016
+gwinnett county,douglas county,623,282.699926838973,2016
+gwinnett county,forsyth county,1651,286.347667830443,2016
+gwinnett county,fayette county,50,29.1819279317649,2016
+gwinnett county,cherokee county,379,143.477812331178,2016
+gwinnett county,rockdale county,596,201.233711362796,2016
+gwinnett county,outside,31705,1239.94968188387,2016
+henry county,clayton county,2562,475.422242555004,2016
+henry county,cobb county,898,325.864861904708,2016
+henry county,fulton county,949,234.063380286031,2016
+henry county,dekalb county,786,160.500603624707,2016
+henry county,gwinnett county,548,172.051783431031,2016
+henry county,douglas county,240,100.312877265442,2016
+henry county,forsyth county,88,41.3410645700003,2016
+henry county,fayette county,552,199.40984086706,2016
+henry county,cherokee county,19,57.1479421997063,2016
+henry county,rockdale county,56,23.710316444559,2016
+henry county,outside,6948,523.35373376462,2016
+douglas county,clayton county,221,75.3866471570594,2016
+douglas county,cobb county,1329,269.324876536914,2016
+douglas county,fulton county,814,169.011999271472,2016
+douglas county,dekalb county,299,95.4492226101478,2016
+douglas county,gwinnett county,145,94.841265778236,2016
+douglas county,henry county,217,187.858661060737,2016
+douglas county,forsyth county,38,19.4546186211766,2016
+douglas county,fayette county,197,107.608359248383,2016
+douglas county,cherokee county,80,57.7558990316181,2016
+douglas county,rockdale county,63,35.8694530827944,2016
+douglas county,outside,6350,644.786588402396,2016
+forsyth county,clayton county,24,13.9830071339707,2016
+forsyth county,cobb county,677,130.102762029119,2016
+forsyth county,fulton county,2212,454.143753438092,2016
+forsyth county,dekalb county,78,29.7898847636767,2016
+forsyth county,gwinnett county,1457,527.706530099416,2016
+forsyth county,henry county,0,18.2387049573531,2016
+forsyth county,douglas county,7,7.29548198294123,2016
+forsyth county,fayette county,0,18.2387049573531,2016
+forsyth county,cherokee county,586,312.489811602649,2016
+forsyth county,rockdale county,0,18.2387049573531,2016
+forsyth county,outside,6966,568.789674185925,2016
+fayette county,clayton county,384,133.142546188678,2016
+fayette county,cobb county,437,138.614157675883,2016
+fayette county,fulton county,1363,266.285092377355,2016
+fayette county,dekalb county,284,116.119754895148,2016
+fayette county,gwinnett county,145,72.9548198294123,2016
+fayette county,henry county,556,274.188531192208,2016
+fayette county,douglas county,102,75.3866471570594,2016
+fayette county,forsyth county,39,29.1819279317649,2016
+fayette county,cherokee county,140,112.472013903677,2016
+fayette county,rockdale county,0,18.2387049573531,2016
+fayette county,outside,6921,615.018578579891,2016
+cherokee county,clayton county,128,69.9150356698535,2016
+cherokee county,cobb county,3676,452.927839774268,2016
+cherokee county,fulton county,1306,284.523797334708,2016
+cherokee county,dekalb county,226,74.1707334932359,2016
+cherokee county,gwinnett county,343,136.182330348236,2016
+cherokee county,henry county,174,86.3298701314713,2016
+cherokee county,douglas county,69,40.1251509061768,2016
+cherokee county,forsyth county,133,60.7956831911769,2016
+cherokee county,fayette county,0,18.2387049573531,2016
+cherokee county,rockdale county,2,1.82387049573531,2016
+cherokee county,outside,8807,703.957570957209,2016
+rockdale county,clayton county,121,56.5399853677946,2016
+rockdale county,cobb county,153,73.5627766613241,2016
+rockdale county,fulton county,590,186.642747396913,2016
+rockdale county,dekalb county,1819,700.366270362358,2016
+rockdale county,gwinnett county,572,215.216718496766,2016
+rockdale county,henry county,511,222.512200479708,2016
+rockdale county,douglas county,3,3.64774099147062,2016
+rockdale county,forsyth county,39,31.613755259412,2016
+rockdale county,fayette county,25,23.710316444559,2016
+rockdale county,cherokee county,0,18.2387049573531,2016
+rockdale county,outside,4361,495.699980550207,2016
+outside,clayton county,13301,943.585628681547,2016
+outside,cobb county,39458,1630.72348399191,2016
+outside,fulton county,54579,1847.87436459179,2016
+outside,dekalb county,37560,1552.06485450351,2016
+outside,gwinnett county,38928,1887.44729448602,2016
+outside,henry county,9544,926.525812911645,2016
+outside,douglas county,5490,572.168778522381,2016
+outside,forsyth county,9045,657.550775394519,2016
+outside,fayette county,5341,593.448708739596,2016
+outside,cherokee county,10091,899.132185981829,2016
+outside,rockdale county,6377,851.383146809523,2016
+clayton county,cobb county,1610,339.239912206767,2017
+clayton county,fulton county,5322,604.309090920299,2017
+clayton county,dekalb county,1563,361.734314987503,2017
+clayton county,gwinnett county,334,138.614157675883,2017
+clayton county,henry county,4350,801.895061291624,2017
+clayton county,douglas county,320,127.670934701472,2017
+clayton county,forsyth county,47,31.613755259412,2017
+clayton county,fayette county,891,252.302085243384,2017
+clayton county,cherokee county,70,54.7161148720593,2017
+clayton county,rockdale county,19,18.2387049573531,2017
+clayton county,outside,7383,585.437491637462,2017
+cobb county,clayton county,903,195.154143043678,2017
+cobb county,fulton county,8323,786.69614049383,2017
+cobb county,dekalb county,2826,409.762904708533,2017
+cobb county,gwinnett county,1550,312.489811602649,2017
+cobb county,henry county,362,145.301682826913,2017
+cobb county,douglas county,2564,447.456228287062,2017
+cobb county,forsyth county,975,196.978013539413,2017
+cobb county,fayette county,247,151.989207977942,2017
+cobb county,cherokee county,3612,410.370861540444,2017
+cobb county,rockdale county,80,46.2047192252945,2017
+cobb county,outside,30227,1153.34057927985,2017
+fulton county,clayton county,8011,730.156155126035,2017
+fulton county,cobb county,9682,720.428845815447,2017
+fulton county,dekalb county,16264,1086.41885862633,2017
+fulton county,gwinnett county,4869,445.632357791327,2017
+fulton county,henry county,1215,407.331077380885,2017
+fulton county,douglas county,866,232.847466622208,2017
+fulton county,forsyth county,3177,344.711523693973,2017
+fulton county,fayette county,540,141.045985003531,2017
+fulton county,cherokee county,1519,302.762502292061,2017
+fulton county,rockdale county,206,74.7786903251476,2017
+fulton county,outside,51254,1466.77936204841,2017
+dekalb county,clayton county,2822,450.496012446621,2017
+dekalb county,cobb county,3075,343.49561003015,2017
+dekalb county,fulton county,12649,884.577190431624,2017
+dekalb county,gwinnett county,8357,1001.30490215868,2017
+dekalb county,henry county,1001,247.43843058809,2017
+dekalb county,douglas county,356,99.7049204335302,2017
+dekalb county,forsyth county,708,169.619956103384,2017
+dekalb county,fayette county,279,83.2900859719124,2017
+dekalb county,cherokee county,106,55.324071703971,2017
+dekalb county,rockdale county,963,214.608761664855,2017
+dekalb county,outside,26872,1180.79976475584,2017
+gwinnett county,clayton county,1002,296.074977141032,2017
+gwinnett county,cobb county,2359,387.876458759709,2017
+gwinnett county,fulton county,4095,376.325278953385,2017
+gwinnett county,dekalb county,6804,547.161148720593,2017
+gwinnett county,henry county,536,200.017797698972,2017
+gwinnett county,douglas county,735,339.239912206767,2017
+gwinnett county,forsyth county,1860,300.938631796326,2017
+gwinnett county,fayette county,51,34.0455825870591,2017
+gwinnett county,cherokee county,373,120.37545271853,2017
+gwinnett county,rockdale county,615,181.171135909707,2017
+gwinnett county,outside,32308,1308.47098676074,2017
+henry county,clayton county,2209,393.348070246915,2017
+henry county,cobb county,930,214.000804832943,2017
+henry county,fulton county,1009,229.807682462649,2017
+henry county,dekalb county,829,172.659740262943,2017
+henry county,gwinnett county,634,187.858661060737,2017
+henry county,douglas county,271,108.216316080295,2017
+henry county,forsyth county,84,42.5569782338239,2017
+henry county,fayette county,474,128.278891533383,2017
+henry county,cherokee county,86,71.7389061655888,2017
+henry county,rockdale county,76,30.3978415955885,2017
+henry county,outside,8164,616.489511675854,2017
+douglas county,clayton county,424,172.051783431031,2017
+douglas county,cobb county,1329,280.268099511326,2017
+douglas county,fulton county,813,172.051783431031,2017
+douglas county,dekalb county,266,94.2333089463243,2017
+douglas county,gwinnett county,99,67.4832083422064,2017
+douglas county,henry county,164,157.460819465148,2017
+douglas county,forsyth county,30,18.8466617892649,2017
+douglas county,fayette county,246,141.045985003531,2017
+douglas county,cherokee county,118,69.3070788379417,2017
+douglas county,rockdale county,65,41.3410645700003,2017
+douglas county,outside,6237,734.233923498093,2017
+forsyth county,clayton county,26,15.806877629706,2017
+forsyth county,cobb county,693,145.909639658825,2017
+forsyth county,fulton county,2334,404.899250053238,2017
+forsyth county,dekalb county,81,30.3978415955885,2017
+forsyth county,gwinnett county,1121,279.052185847502,2017
+forsyth county,henry county,0,18.2387049573531,2017
+forsyth county,douglas county,10,9.11935247867654,2017
+forsyth county,fayette county,14,13.9830071339707,2017
+forsyth county,cherokee county,506,257.165739898678,2017
+forsyth county,rockdale county,0,18.2387049573531,2017
+forsyth county,outside,7125,583.882323750411,2017
+fayette county,clayton county,440,156.244905801325,2017
+fayette county,cobb county,452,126.455021037648,2017
+fayette county,fulton county,1204,237.711121277502,2017
+fayette county,dekalb county,339,119.159539054707,2017
+fayette county,gwinnett county,208,83.8980428038242,2017
+fayette county,henry county,335,165.364258280001,2017
+fayette county,douglas county,87,86.3298701314713,2017
+fayette county,forsyth county,7,7.903438814853,2017
+fayette county,cherokee county,371,238.927034941325,2017
+fayette county,rockdale county,0,0,2017
+fayette county,outside,6960,604.504779745353,2017
+cherokee county,clayton county,33,23.710316444559,2017
+cherokee county,cobb county,2899,334.376257551473,2017
+cherokee county,fulton county,1501,291.211322485738,2017
+cherokee county,dekalb county,240,58.9718126954416,2017
+cherokee county,gwinnett county,342,143.477812331178,2017
+cherokee county,henry county,167,88.7616974591183,2017
+cherokee county,douglas county,78,46.2047192252945,2017
+cherokee county,forsyth county,208,88.1537406272066,2017
+cherokee county,fayette county,150,112.472013903677,2017
+cherokee county,rockdale county,29,26.1421437722061,2017
+cherokee county,outside,8905,709.710640586931,2017
+rockdale county,clayton county,125,63.227510518824,2017
+rockdale county,cobb county,157,70.5229925017652,2017
+rockdale county,fulton county,563,143.477812331178,2017
+rockdale county,dekalb county,1932,663.28090361574,2017
+rockdale county,gwinnett county,648,252.910042075296,2017
+rockdale county,henry county,569,265.677135545443,2017
+rockdale county,douglas county,22,17.0227912935295,2017
+rockdale county,forsyth county,34,23.1023596126472,2017
+rockdale county,fayette county,0,0,2017
+rockdale county,cherokee county,0,18.2387049573531,2017
+rockdale county,outside,4034,477.055168662777,2017
+outside,clayton county,12885,941.566163424976,2017
+outside,cobb county,38268,1590.91581416019,2017
+outside,fulton county,54856,1896.59673340592,2017
+outside,dekalb county,36996,1543.09731912199,2017
+outside,gwinnett county,38117,1875.54702351646,2017
+outside,henry county,9607,918.20483335875,2017
+outside,douglas county,5715,610.055221317028,2017
+outside,forsyth county,9681,681.606105416569,2017
+outside,fayette county,5317,544.971500358486,2017
+outside,cherokee county,10086,863.377903325173,2017
+outside,rockdale county,6379,860.315844091556,2017
+clayton county,cobb county,1542,347.14335102162,2018
+clayton county,fulton county,6327,862.690744482801,2018
+clayton county,dekalb county,1539,317.353466257944,2018
+clayton county,gwinnett county,270,103.352661425001,2018
+clayton county,henry county,4464,689.423047387947,2018
+clayton county,douglas county,947,476.030199386916,2018
+clayton county,forsyth county,55,33.4376257551473,2018
+clayton county,fayette county,901,197.585970371325,2018
+clayton county,cherokee county,54,42.5569782338239,2018
+clayton county,rockdale county,17,17.0227912935295,2018
+clayton county,outside,7825,620.829013822951,2018
+cobb county,clayton county,883,188.466617892649,2018
+cobb county,fulton county,7632,676.655953917799,2018
+cobb county,dekalb county,2706,352.007005676914,2018
+cobb county,gwinnett county,1441,298.506804468679,2018
+cobb county,henry county,268,127.06297786956,2018
+cobb county,douglas county,2443,499.132558999563,2018
+cobb county,forsyth county,1214,241.966819100884,2018
+cobb county,fayette county,297,158.676733128972,2018
+cobb county,cherokee county,4225,503.388256822945,2018
+cobb county,rockdale county,66,43.1649350657356,2018
+cobb county,outside,31416,1182.56605601352,2018
+fulton county,clayton county,7857,754.474428402506,2018
+fulton county,cobb county,9591,705.837881849564,2018
+fulton county,dekalb county,15756,1101.00982259221,2018
+fulton county,gwinnett county,5097,507.035997814416,2018
+fulton county,henry county,1169,403.075379557503,2018
+fulton county,douglas county,917,213.392848001031,2018
+fulton county,forsyth county,3751,362.950228651326,2018
+fulton county,fayette county,746,206.09736601809,2018
+fulton county,cherokee county,1469,266.893049209267,2018
+fulton county,rockdale county,142,68.6991220060299,2018
+fulton county,outside,51469,1448.29060821491,2018
+dekalb county,clayton county,2826,409.762904708533,2018
+dekalb county,cobb county,3491,341.671739534414,2018
+dekalb county,fulton county,12995,746.570989587653,2018
+dekalb county,gwinnett county,8183,780.0086153428,2018
+dekalb county,henry county,1090,277.228315351767,2018
+dekalb county,douglas county,365,91.1935247867654,2018
+dekalb county,forsyth county,829,185.42683373309,2018
+dekalb county,fayette county,217,81.4662154761771,2018
+dekalb county,cherokee county,164,70.5229925017652,2018
+dekalb county,rockdale county,881,223.728114143531,2018
+dekalb county,outside,25274,1207.54873831783,2018
+gwinnett county,clayton county,1017,285.739710998532,2018
+gwinnett county,cobb county,2052,331.336473391914,2018
+gwinnett county,fulton county,4989,476.030199386916,2018
+gwinnett county,dekalb county,6692,619.508011718093,2018
+gwinnett county,henry county,882,345.927437357797,2018
+gwinnett county,douglas county,390,174.483610758678,2018
+gwinnett county,forsyth county,2167,290.603365653826,2018
+gwinnett county,fayette county,87,60.7956831911769,2018
+gwinnett county,cherokee county,430,144.693725995001,2018
+gwinnett county,rockdale county,570,163.540387784266,2018
+gwinnett county,outside,32845,1275.46271638227,2018
+henry county,clayton county,1841,285.739710998532,2018
+henry county,cobb county,865,186.034790565001,2018
+henry county,fulton county,799,141.045985003531,2018
+henry county,dekalb county,677,136.790287180148,2018
+henry county,gwinnett county,485,178.73930858206,2018
+henry county,douglas county,212,105.784488752648,2018
+henry county,forsyth county,94,48.0285897210298,2018
+henry county,fayette county,381,144.085769163089,2018
+henry county,cherokee county,94,81.4662154761771,2018
+henry county,rockdale county,68,30.3978415955885,2018
+henry county,outside,8819,682.69573049216,2018
+douglas county,clayton county,470,209.137150177649,2018
+douglas county,cobb county,1271,260.813480890149,2018
+douglas county,fulton county,777,152.597164809854,2018
+douglas county,dekalb county,213,75.3866471570594,2018
+douglas county,gwinnett county,101,62.0115968550005,2018
+douglas county,henry county,198,192.722315716031,2018
+douglas county,forsyth county,13,11.5511798063236,2018
+douglas county,fayette county,69,48.0285897210298,2018
+douglas county,cherokee county,50,34.6535394189709,2018
+douglas county,rockdale county,66,38.3012804104415,2018
+douglas county,outside,6698,780.263034348137,2018
+forsyth county,clayton county,11,9.72730931058831,2018
+forsyth county,cobb county,662,144.693725995001,2018
+forsyth county,fulton county,2318,426.17773917015,2018
+forsyth county,dekalb county,49,20.0625754530884,2018
+forsyth county,gwinnett county,1525,333.768300719561,2018
+forsyth county,henry county,0,18.8466617892649,2018
+forsyth county,douglas county,8,8.51139564676477,2018
+forsyth county,fayette county,15,14.5909639658825,2018
+forsyth county,cherokee county,493,279.660142679414,2018
+forsyth county,rockdale county,0,18.8466617892649,2018
+forsyth county,outside,7405,536.220682912933,2018
+fayette county,clayton county,592,203.665538690443,2018
+fayette county,cobb county,587,155.028992137501,2018
+fayette county,fulton county,1098,243.79068959662,2018
+fayette county,dekalb county,349,121.591366382354,2018
+fayette county,gwinnett county,205,93.6253521144125,2018
+fayette county,henry county,482,211.568977505296,2018
+fayette county,douglas county,113,116.119754895148,2018
+fayette county,forsyth county,25,18.2387049573531,2018
+fayette county,cherokee county,278,173.875653926766,2018
+fayette county,rockdale county,0,0,2018
+fayette county,outside,6304,563.688447253926,2018
+cherokee county,clayton county,47,26.1421437722061,2018
+cherokee county,cobb county,2881,276.012401687943,2018
+cherokee county,fulton county,1483,293.035192981473,2018
+cherokee county,dekalb county,248,68.0911651741182,2018
+cherokee county,gwinnett county,298,119.767495886619,2018
+cherokee county,henry county,157,84.505999635736,2018
+cherokee county,douglas county,110,54.7161148720593,2018
+cherokee county,forsyth county,291,85.7219132995595,2018
+cherokee county,fayette county,129,89.3696542910301,2018
+cherokee county,rockdale county,29,29.7898847636767,2018
+cherokee county,outside,9286,764.853429457722,2018
+rockdale county,clayton county,137,59.5797695273534,2018
+rockdale county,cobb county,204,110.648143407942,2018
+rockdale county,fulton county,541,210.353063841472,2018
+rockdale county,dekalb county,1655,642.002414498828,2018
+rockdale county,gwinnett county,679,257.77369673059,2018
+rockdale county,henry county,734,258.381653562502,2018
+rockdale county,douglas county,49,26.1421437722061,2018
+rockdale county,forsyth county,25,18.8466617892649,2018
+rockdale county,fayette county,0,0,2018
+rockdale county,cherokee county,0,18.8466617892649,2018
+rockdale county,outside,3920,498.733636180431,2018
+outside,clayton county,12049,911.326479885506,2018
+outside,cobb county,36359,1557.4529855855,2018
+outside,fulton county,56704,1891.38233313627,2018
+outside,dekalb county,38041,1603.11426773143,2018
+outside,gwinnett county,39550,2065.35928522728,2018
+outside,henry county,9731,935.800602186199,2018
+outside,douglas county,5643,598.695811820105,2018
+outside,forsyth county,10187,796.89923114801,2018
+outside,fayette county,5618,575.160901675117,2018
+outside,cherokee county,8794,754.65248338601,2018
+outside,rockdale county,5604,776.790419610175,2018
+clayton county,cobb county,1550,237.10316444559,2019
+clayton county,fulton county,6748,954.492226101478,2019
+clayton county,dekalb county,1682,393.956027078827,2019
+clayton county,gwinnett county,248,98.4890067697066,2019
+clayton county,henry county,3914,666.320687775299,2019
+clayton county,douglas county,1183,581.206731307652,2019
+clayton county,forsyth county,250,163.540387784266,2019
+clayton county,fayette county,813,210.353063841472,2019
+clayton county,cherokee county,31,31.613755259412,2019
+clayton county,rockdale county,185,165.364258280001,2019
+clayton county,outside,7305,604.658228847281,2019
+cobb county,clayton county,1134,221.904243647796,2019
+cobb county,fulton county,7551,696.110572538976,2019
+cobb county,dekalb county,2292,235.887250781767,2019
+cobb county,gwinnett county,1506,336.80808487912,2019
+cobb county,henry county,234,89.9776111229419,2019
+cobb county,douglas county,2525,488.189336025151,2019
+cobb county,forsyth county,1386,250.478214747649,2019
+cobb county,fayette county,261,116.119754895148,2019
+cobb county,cherokee county,4515,533.178141586622,2019
+cobb county,rockdale county,102,51.6763307125004,2019
+cobb county,outside,30515,1211.55348321387,2019
+fulton county,clayton county,7574,780.616572174712,2019
+fulton county,cobb county,9598,680.30369490927,2019
+fulton county,dekalb county,13874,865.122571810448,2019
+fulton county,gwinnett county,5309,524.666745939857,2019
+fulton county,henry county,1044,359.910444491768,2019
+fulton county,douglas county,1279,275.404444856032,2019
+fulton county,forsyth county,3439,331.944430223826,2019
+fulton county,fayette county,767,186.642747396913,2019
+fulton county,cherokee county,1601,317.353466257944,2019
+fulton county,rockdale county,344,141.045985003531,2019
+fulton county,outside,51894,1525.69562042057,2019
+dekalb county,clayton county,2696,443.20053046368,2019
+dekalb county,cobb county,3553,365.990012810885,2019
+dekalb county,fulton county,12546,657.809292128535,2019
+dekalb county,gwinnett county,9041,1000.69694532677,2019
+dekalb county,henry county,1239,279.660142679414,2019
+dekalb county,douglas county,431,128.886848365295,2019
+dekalb county,forsyth county,947,212.176934337208,2019
+dekalb county,fayette county,135,45.5967623933827,2019
+dekalb county,cherokee county,279,111.864057071766,2019
+dekalb county,rockdale county,1615,470.55858789971,2019
+dekalb county,outside,26923,1310.56598691278,2019
+gwinnett county,clayton county,1070,304.586372787797,2019
+gwinnett county,cobb county,1898,369.029796970444,2019
+gwinnett county,fulton county,5067,418.882257187209,2019
+gwinnett county,dekalb county,7019,788.520010989565,2019
+gwinnett county,henry county,1069,383.620760936326,2019
+gwinnett county,douglas county,281,93.0173952825007,2019
+gwinnett county,forsyth county,1993,282.699926838973,2019
+gwinnett county,fayette county,83,58.3638558635299,2019
+gwinnett county,cherokee county,473,147.73351015456,2019
+gwinnett county,rockdale county,686,172.051783431031,2019
+gwinnett county,outside,34534,1338.37233104021,2019
+henry county,clayton county,1872,311.881854770738,2019
+henry county,cobb county,758,166.580171943825,2019
+henry county,fulton county,853,162.932430952354,2019
+henry county,dekalb county,692,161.716517288531,2019
+henry county,gwinnett county,495,184.210920069266,2019
+henry county,douglas county,163,92.409438450589,2019
+henry county,forsyth county,97,48.0285897210298,2019
+henry county,fayette county,442,159.892646792795,2019
+henry county,cherokee county,146,107.608359248383,2019
+henry county,rockdale county,55,31.613755259412,2019
+henry county,outside,9216,763.095781226343,2019
+douglas county,clayton county,370,175.699524422501,2019
+douglas county,cobb county,1431,348.967221517356,2019
+douglas county,fulton county,774,173.875653926766,2019
+douglas county,dekalb county,114,51.0683738805886,2019
+douglas county,gwinnett county,126,67.4832083422064,2019
+douglas county,henry county,13,12.7670934701472,2019
+douglas county,forsyth county,11,10.3352661425001,2019
+douglas county,fayette county,57,40.7331077380886,2019
+douglas county,cherokee county,51,36.4774099147062,2019
+douglas county,rockdale county,59,38.9092372423532,2019
+douglas county,outside,7168,794.034215553415,2019
+forsyth county,clayton county,14,10.9432229744119,2019
+forsyth county,cobb county,756,131.318675692942,2019
+forsyth county,fulton county,2364,396.995811238385,2019
+forsyth county,dekalb county,114,40.1251509061768,2019
+forsyth county,gwinnett county,1657,392.132156583091,2019
+forsyth county,henry county,0,18.8466617892649,2019
+forsyth county,douglas county,0,18.8466617892649,2019
+forsyth county,fayette county,16,15.1989207977942,2019
+forsyth county,cherokee county,567,308.234113779267,2019
+forsyth county,rockdale county,0,18.8466617892649,2019
+forsyth county,outside,8320,606.304896736214,2019
+fayette county,clayton county,802,260.813480890149,2019
+fayette county,cobb county,586,191.506402052207,2019
+fayette county,fulton county,1070,209.137150177649,2019
+fayette county,dekalb county,289,94.2333089463243,2019
+fayette county,gwinnett county,192,89.9776111229419,2019
+fayette county,henry county,357,184.818876901178,2019
+fayette county,douglas county,128,138.614157675883,2019
+fayette county,forsyth county,97,62.0115968550005,2019
+fayette county,cherokee county,203,132.534589356766,2019
+fayette county,rockdale county,0,0,2019
+fayette county,outside,5832,545.397596135499,2019
+cherokee county,clayton county,140,58.3638558635299,2019
+cherokee county,cobb county,3143,353.83087617265,2019
+cherokee county,fulton county,1476,232.239509790296,2019
+cherokee county,dekalb county,187,55.324071703971,2019
+cherokee county,gwinnett county,356,115.511798063236,2019
+cherokee county,henry county,158,104.568575088824,2019
+cherokee county,douglas county,29,24.3182732764708,2019
+cherokee county,forsyth county,299,75.9946039889712,2019
+cherokee county,fayette county,101,65.6593378464711,2019
+cherokee county,rockdale county,34,30.3978415955885,2019
+cherokee county,outside,10290,809.572538677249,2019
+rockdale county,clayton county,167,74.1707334932359,2019
+rockdale county,cobb county,150,74.1707334932359,2019
+rockdale county,fulton county,594,261.421437722061,2019
+rockdale county,dekalb county,1078,292.427236149561,2019
+rockdale county,gwinnett county,680,227.375855135002,2019
+rockdale county,henry county,898,303.370459123973,2019
+rockdale county,douglas county,58,31.0057984275002,2019
+rockdale county,forsyth county,18,15.806877629706,2019
+rockdale county,fayette county,0,0,2019
+rockdale county,cherokee county,2,2.43182732764708,2019
+rockdale county,outside,3871,482.79237341474,2019
+outside,clayton county,12631,962.047457344533,2019
+outside,cobb county,36562,1575.40185949923,2019
+outside,fulton county,56668,1971.78359149606,2019
+outside,dekalb county,37495,1654.38258231786,2019
+outside,gwinnett county,40464,2059.56537338847,2019
+outside,henry county,9495,897.475462830441,2019
+outside,douglas county,5674,608.760931017881,2019
+outside,forsyth county,9683,800.262193946385,2019
+outside,fayette county,5900,578.236305045005,2019
+outside,cherokee county,8225,697.579799709678,2019
+outside,rockdale county,5443,732.283436207339,2019
+clayton county,cobb county,1385,242.574775932796,2020
+clayton county,fulton county,6360,797.03140663633,2020
+clayton county,dekalb county,1692,465.694933244415,2020
+clayton county,gwinnett county,320,97.8810499377949,2020
+clayton county,henry county,3219,617.684141222358,2020
+clayton county,douglas county,1236,397.603768070297,2020
+clayton county,forsyth county,147,101.528790929265,2020
+clayton county,fayette county,728,206.705322850002,2020
+clayton county,cherokee county,1,1.21591366382354,2020
+clayton county,rockdale county,573,310.057984275002,2020
+clayton county,outside,6571,535.957999113175,2020
+cobb county,clayton county,1494,369.029796970444,2020
+cobb county,fulton county,7352,660.849076288093,2020
+cobb county,dekalb county,2210,247.43843058809,2020
+cobb county,gwinnett county,1547,286.955624662355,2020
+cobb county,henry county,118,54.7161148720593,2020
+cobb county,douglas county,2293,439.552789472209,2020
+cobb county,forsyth county,1335,306.410243283532,2020
+cobb county,fayette county,144,73.5627766613241,2020
+cobb county,cherokee county,5817,692.462831547505,2020
+cobb county,rockdale county,194,107.000402416471,2020
+cobb county,outside,33134,1507.51658814057,2020
+fulton county,clayton county,7292,882.145363103977,2020
+fulton county,cobb county,10929,747.178946419565,2020
+fulton county,dekalb county,14205,810.406456938389,2020
+fulton county,gwinnett county,4421,435.297091648827,2020
+fulton county,henry county,1947,604.309090920299,2020
+fulton county,douglas county,1619,324.648948240885,2020
+fulton county,forsyth county,3851,493.660947512357,2020
+fulton county,fayette county,1477,464.479019580592,2020
+fulton county,cherokee county,1499,281.484013175149,2020
+fulton county,rockdale county,302,117.335668558972,2020
+fulton county,outside,50098,1551.87992638309,2020
+dekalb county,clayton county,2400,409.762904708533,2020
+dekalb county,cobb county,3650,622.547795877652,2020
+dekalb county,fulton county,14716,1377.02222428016,2020
+dekalb county,gwinnett county,7053,796.423449804418,2020
+dekalb county,henry county,1056,279.052185847502,2020
+dekalb county,douglas county,488,122.807280046177,2020
+dekalb county,forsyth county,1065,274.188531192208,2020
+dekalb county,fayette county,118,37.0853667466179,2020
+dekalb county,cherokee county,248,115.511798063236,2020
+dekalb county,rockdale county,2247,643.826284994564,2020
+dekalb county,outside,27709,1311.89632558771,2020
+gwinnett county,clayton county,941,285.739710998532,2020
+gwinnett county,cobb county,2324,448.064185118974,2020
+gwinnett county,fulton county,6416,766.02560820883,2020
+gwinnett county,dekalb county,6034,644.434241826476,2020
+gwinnett county,henry county,870,234.671337117943,2020
+gwinnett county,douglas county,430,208.529193345737,2020
+gwinnett county,forsyth county,1685,232.847466622208,2020
+gwinnett county,fayette county,137,89.9776111229419,2020
+gwinnett county,cherokee county,172,80.2503018123536,2020
+gwinnett county,rockdale county,741,178.131351750148,2020
+gwinnett county,outside,34343,1460.00121177466,2020
+henry county,clayton county,1639,305.194329619708,2020
+henry county,cobb county,1055,182.995006405443,2020
+henry county,fulton county,809,166.580171943825,2020
+henry county,dekalb county,771,238.319078109414,2020
+henry county,gwinnett county,655,201.841668194707,2020
+henry county,douglas county,90,62.6195536869123,2020
+henry county,forsyth county,72,35.2614962508826,2020
+henry county,fayette county,358,147.125553322648,2020
+henry county,cherokee county,177,126.455021037648,2020
+henry county,rockdale county,79,31.0057984275002,2020
+henry county,outside,8853,752.203296827813,2020
+douglas county,clayton county,259,142.261898667354,2020
+douglas county,cobb county,1679,348.967221517356,2020
+douglas county,fulton county,902,285.13175416662,2020
+douglas county,dekalb county,154,61.4036400230887,2020
+douglas county,gwinnett county,304,215.216718496766,2020
+douglas county,henry county,52,32.8296689232355,2020
+douglas county,forsyth county,72,43.7728918976474,2020
+douglas county,fayette county,53,26.1421437722061,2020
+douglas county,cherokee county,213,169.619956103384,2020
+douglas county,rockdale county,0,0,2020
+douglas county,outside,8151,1019.40728806305,2020
+forsyth county,clayton county,28,20.6705322850002,2020
+forsyth county,cobb county,739,147.73351015456,2020
+forsyth county,fulton county,2403,468.126760572063,2020
+forsyth county,dekalb county,249,97.8810499377949,2020
+forsyth county,gwinnett county,1591,321.609164081326,2020
+forsyth county,henry county,0,0,2020
+forsyth county,douglas county,18,18.8466617892649,2020
+forsyth county,fayette county,31,23.1023596126472,2020
+forsyth county,cherokee county,748,248.046387420002,2020
+forsyth county,rockdale county,0,0,2020
+forsyth county,outside,8602,681.647045236076,2020
+fayette county,clayton county,672,156.852862633237,2020
+fayette county,cobb county,527,134.966416684413,2020
+fayette county,fulton county,953,172.051783431031,2020
+fayette county,dekalb county,292,89.3696542910301,2020
+fayette county,gwinnett county,232,108.216316080295,2020
+fayette county,henry county,342,120.983409550442,2020
+fayette county,douglas county,135,138.006200843972,2020
+fayette county,forsyth county,148,106.39244558456,2020
+fayette county,cherokee county,188,136.790287180148,2020
+fayette county,rockdale county,0,0,2020
+fayette county,outside,5300,486.932814313012,2020
+cherokee county,clayton county,137,55.9320285358828,2020
+cherokee county,cobb county,3465,689.423047387947,2020
+cherokee county,fulton county,1431,236.495207613678,2020
+cherokee county,dekalb county,205,82.6821291400007,2020
+cherokee county,gwinnett county,204,66.8752515102946,2020
+cherokee county,henry county,0,0,2020
+cherokee county,douglas county,21,17.6307481254413,2020
+cherokee county,forsyth county,285,103.352661425001,2020
+cherokee county,fayette county,101,65.0513810145593,2020
+cherokee county,rockdale county,91,68.0911651741182,2020
+cherokee county,outside,11673,877.381554304698,2020
+rockdale county,clayton county,176,78.4264313166183,2020
+rockdale county,cobb county,123,51.6763307125004,2020
+rockdale county,fulton county,479,148.949423818384,2020
+rockdale county,dekalb county,1132,302.762502292061,2020
+rockdale county,gwinnett county,373,147.125553322648,2020
+rockdale county,henry county,790,278.44422901559,2020
+rockdale county,douglas county,48,27.3580574360296,2020
+rockdale county,forsyth county,15,15.1989207977942,2020
+rockdale county,fayette county,0,0,2020
+rockdale county,cherokee county,1,1.21591366382354,2020
+rockdale county,outside,4093,549.695525570246,2020
+outside,clayton county,11376,981.003107590178,2020
+outside,cobb county,35231,1507.54968695116,2020
+outside,fulton county,58047,2069.82785150816,2020
+outside,dekalb county,37199,1747.31341473967,2020
+outside,gwinnett county,40275,2176.01908161169,2020
+outside,henry county,9222,898.60996802529,2020
+outside,douglas county,6067,740.07376991551,2020
+outside,forsyth county,9602,792.793425148437,2020
+outside,fayette county,6029,518.012757227938,2020
+outside,cherokee county,8917,911.626961644695,2020
+outside,rockdale county,5689,711.800106386897,2020

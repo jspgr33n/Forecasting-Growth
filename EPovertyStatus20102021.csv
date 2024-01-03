@@ -1,0 +1,265 @@
+"","...1","year...2","county...3","variable...4","data...5","total","year...7","county...8","variable...9","data...10"
+"1",1,2010,"Cherokee","Below Poverty Level",17981,0.202714343594154,2006,"Cherokee","Population",193241
+"2",2,2010,"Cherokee","Rate below Poverty Level",8.4,NA,2007,"Cherokee","Population",202544
+"3",3,2011,"Cherokee","Below Poverty Level",20509,0.214471882994219,2008,"Cherokee","Population",208271
+"4",4,2011,"Cherokee","Rate below Poverty Level",9.5,NA,2009,"Cherokee","Population",212232
+"5",5,2012,"Cherokee","Below Poverty Level",22644,0.220265244116639,2010,"Cherokee","Population",215226
+"6",6,2012,"Cherokee","Rate below Poverty Level",10.3,NA,2011,"Cherokee","Population",217769
+"7",7,2013,"Cherokee","Below Poverty Level",28216,0.206307172868135,2012,"Cherokee","Population",220690
+"8",8,2013,"Cherokee","Rate below Poverty Level",12.7,NA,2013,"Cherokee","Population",224372
+"9",9,2014,"Cherokee","Below Poverty Level",22335,0.199975510954462,2014,"Cherokee","Population",230239
+"10",10,2014,"Cherokee","Rate below Poverty Level",9.7,NA,2015,"Cherokee","Population",235424
+"11",11,2015,"Cherokee","Below Poverty Level",23972,0.183387460925132,2016,"Cherokee","Population",241929
+"12",12,2015,"Cherokee","Rate below Poverty Level",10.3,NA,2017,"Cherokee","Population",247944
+"13",13,2016,"Cherokee","Below Poverty Level",17610,0.17364262855604,2018,"Cherokee","Population",254277
+"14",14,2016,"Cherokee","Rate below Poverty Level",7.4,NA,2019,"Cherokee","Population",259475
+"15",15,2017,"Cherokee","Below Poverty Level",19455,0.155072280949618,2020,"Cherokee","Population",265274
+"16",16,2017,"Cherokee","Rate below Poverty Level",7.9,NA,2006,"Clayton","Population",258552
+"17",17,2018,"Cherokee","Below Poverty Level",19834,0.143228023792024,2007,"Clayton","Population",260441
+"18",18,2018,"Cherokee","Rate below Poverty Level",7.9,NA,2008,"Clayton","Population",262099
+"19",19,2019,"Cherokee","Below Poverty Level",17421,0.13944884375532,2009,"Clayton","Population",260067
+"20",20,2019,"Cherokee","Rate below Poverty Level",6.8,NA,2010,"Clayton","Population",259899
+"21",21,2020,"Cherokee","Below Poverty Level",17381,0.148012365473552,2011,"Clayton","Population",262081
+"22",22,2020,"Cherokee","Rate below Poverty Level",6.9,NA,2012,"Clayton","Population",265371
+"23",23,2021,"Cherokee","Below Poverty Level",19331,NA,2013,"Clayton","Population",264133
+"24",24,2021,"Cherokee","Rate below Poverty Level",7.1,NA,2014,"Clayton","Population",266757
+"25",25,2010,"Clayton","Below Poverty Level",58866,NA,2015,"Clayton","Population",272874
+"26",26,2010,"Clayton","Rate below Poverty Level",23.2,NA,2016,"Clayton","Population",279346
+"27",27,2011,"Clayton","Below Poverty Level",65239,NA,2017,"Clayton","Population",284175
+"28",28,2011,"Clayton","Rate below Poverty Level",25.4,NA,2018,"Clayton","Population",289229
+"29",29,2012,"Clayton","Below Poverty Level",76896,NA,2019,"Clayton","Population",292404
+"30",30,2012,"Clayton","Rate below Poverty Level",29.5,NA,2020,"Clayton","Population",292646
+"31",31,2013,"Clayton","Below Poverty Level",65614,NA,2006,"Cobb","Population",661913
+"32",32,2013,"Clayton","Rate below Poverty Level",25.3,NA,2007,"Cobb","Population",670438
+"33",33,2014,"Clayton","Below Poverty Level",58792,NA,2008,"Cobb","Population",679822
+"34",34,2014,"Clayton","Rate below Poverty Level",22.4,NA,2009,"Cobb","Population",684776
+"35",35,2015,"Clayton","Below Poverty Level",62440,NA,2010,"Cobb","Population",689542
+"36",36,2015,"Clayton","Rate below Poverty Level",23.3,NA,2011,"Cobb","Population",696629
+"37",37,2016,"Clayton","Below Poverty Level",56658,NA,2012,"Cobb","Population",706517
+"38",38,2016,"Clayton","Rate below Poverty Level",20.7,NA,2013,"Cobb","Population",716265
+"39",39,2017,"Clayton","Below Poverty Level",41096,NA,2014,"Cobb","Population",727847
+"40",40,2017,"Clayton","Rate below Poverty Level",14.8,NA,2015,"Cobb","Population",739428
+"41",41,2018,"Clayton","Below Poverty Level",47970,NA,2016,"Cobb","Population",748767
+"42",42,2018,"Clayton","Rate below Poverty Level",17,NA,2017,"Cobb","Population",753361
+"43",43,2019,"Clayton","Below Poverty Level",44074,NA,2018,"Cobb","Population",757133
+"44",44,2019,"Clayton","Rate below Poverty Level",15.4,NA,2019,"Cobb","Population",761060
+"45",45,2020,"Clayton","Below Poverty Level",46679,NA,2020,"Cobb","Population",762944
+"46",46,2020,"Clayton","Rate below Poverty Level",16.6,NA,2006,"DeKalb","Population",676687
+"47",47,2021,"Clayton","Below Poverty Level",56509,NA,2007,"DeKalb","Population",680962
+"48",48,2021,"Clayton","Rate below Poverty Level",19.3,NA,2008,"DeKalb","Population",685646
+"49",49,2010,"Cobb","Below Poverty Level",94831,NA,2009,"DeKalb","Population",690658
+"50",50,2010,"Cobb","Rate below Poverty Level",13.9,NA,2010,"DeKalb","Population",692536
+"51",51,2011,"Cobb","Below Poverty Level",86631,NA,2011,"DeKalb","Population",698496
+"52",52,2011,"Cobb","Rate below Poverty Level",12.6,NA,2012,"DeKalb","Population",710783
+"53",53,2012,"Cobb","Below Poverty Level",94896,NA,2013,"DeKalb","Population",718026
+"54",54,2012,"Cobb","Rate below Poverty Level",13.6,NA,2014,"DeKalb","Population",725247
+"55",55,2013,"Cobb","Below Poverty Level",95590,NA,2015,"DeKalb","Population",734846
+"56",56,2013,"Cobb","Rate below Poverty Level",13.5,NA,2016,"DeKalb","Population",747299
+"57",57,2014,"Cobb","Below Poverty Level",92026,NA,2017,"DeKalb","Population",751680
+"58",58,2014,"Cobb","Rate below Poverty Level",12.8,NA,2018,"DeKalb","Population",755514
+"59",59,2015,"Cobb","Below Poverty Level",80781,NA,2019,"DeKalb","Population",759932
+"60",60,2015,"Cobb","Rate below Poverty Level",11.1,NA,2020,"DeKalb","Population",762009
+"61",61,2016,"Cobb","Below Poverty Level",70868,NA,2006,"Douglas","Population",119918
+"62",62,2016,"Cobb","Rate below Poverty Level",9.6,NA,2007,"Douglas","Population",125560
+"63",63,2017,"Cobb","Below Poverty Level",68948,NA,2008,"Douglas","Population",129508
+"64",64,2017,"Cobb","Rate below Poverty Level",9.2,NA,2009,"Douglas","Population",131292
+"65",65,2018,"Cobb","Below Poverty Level",64966,NA,2010,"Douglas","Population",132575
+"66",66,2018,"Cobb","Rate below Poverty Level",8.7,NA,2011,"Douglas","Population",133128
+"67",67,2019,"Cobb","Below Poverty Level",60219,NA,2012,"Douglas","Population",133597
+"68",68,2019,"Cobb","Rate below Poverty Level",8.1,NA,2013,"Douglas","Population",136081
+"69",69,2020,"Cobb","Below Poverty Level",64079,NA,2014,"Douglas","Population",138082
+"70",70,2020,"Cobb","Rate below Poverty Level",8.6,NA,2015,"Douglas","Population",140264
+"71",71,2021,"Cobb","Below Poverty Level",70810,NA,2016,"Douglas","Population",141824
+"72",72,2021,"Cobb","Rate below Poverty Level",9.4,NA,2017,"Douglas","Population",143563
+"73",73,2010,"DeKalb","Below Poverty Level",130403,NA,2018,"Douglas","Population",145260
+"74",74,2010,"DeKalb","Rate below Poverty Level",19.2,NA,2019,"Douglas","Population",146680
+"75",75,2011,"DeKalb","Below Poverty Level",130909,NA,2020,"Douglas","Population",147988
+"76",76,2011,"DeKalb","Rate below Poverty Level",19.2,NA,2006,"Fayette","Population",104099
+"77",77,2012,"DeKalb","Below Poverty Level",144538,NA,2007,"Fayette","Population",104989
+"78",78,2012,"DeKalb","Rate below Poverty Level",20.8,NA,2008,"Fayette","Population",105192
+"79",79,2013,"DeKalb","Below Poverty Level",136678,NA,2009,"Fayette","Population",105493
+"80",80,2013,"DeKalb","Rate below Poverty Level",19.5,NA,2010,"Fayette","Population",106938
+"81",81,2014,"DeKalb","Below Poverty Level",141893,NA,2011,"Fayette","Population",107171
+"82",82,2014,"DeKalb","Rate below Poverty Level",20.1,NA,2012,"Fayette","Population",107343
+"83",83,2015,"DeKalb","Below Poverty Level",125121,NA,2013,"Fayette","Population",108103
+"84",84,2015,"DeKalb","Rate below Poverty Level",17.3,NA,2014,"Fayette","Population",109259
+"85",85,2016,"DeKalb","Below Poverty Level",125609,NA,2015,"Fayette","Population",110215
+"86",86,2016,"DeKalb","Rate below Poverty Level",17.3,NA,2016,"Fayette","Population",111294
+"87",87,2017,"DeKalb","Below Poverty Level",109376,NA,2017,"Fayette","Population",112626
+"88",88,2017,"DeKalb","Rate below Poverty Level",14.8,NA,2018,"Fayette","Population",113333
+"89",89,2018,"DeKalb","Below Poverty Level",102530,NA,2019,"Fayette","Population",114645
+"90",90,2018,"DeKalb","Rate below Poverty Level",13.8,NA,2020,"Fayette","Population",115821
+"91",91,2019,"DeKalb","Below Poverty Level",92060,NA,2006,"Forsyth","Population",147228
+"92",92,2019,"DeKalb","Rate below Poverty Level",12.4,NA,2007,"Forsyth","Population",157129
+"93",93,2020,"DeKalb","Below Poverty Level",106725,NA,2008,"Forsyth","Population",166338
+"94",94,2020,"DeKalb","Rate below Poverty Level",14.4,NA,2009,"Forsyth","Population",171993
+"95",95,2021,"DeKalb","Below Poverty Level",103170,NA,2010,"Forsyth","Population",176736
+"96",96,2021,"DeKalb","Rate below Poverty Level",13.8,NA,2011,"Forsyth","Population",181828
+"97",97,2010,"Douglas","Below Poverty Level",15212,NA,2012,"Forsyth","Population",186848
+"98",98,2010,"Douglas","Rate below Poverty Level",11.6,NA,2013,"Forsyth","Population",193875
+"99",99,2011,"Douglas","Below Poverty Level",22740,NA,2014,"Forsyth","Population",202697
+"100",100,2011,"Douglas","Rate below Poverty Level",17.4,NA,2015,"Forsyth","Population",211368
+"101",101,2012,"Douglas","Below Poverty Level",20539,NA,2016,"Forsyth","Population",220856
+"102",102,2012,"Douglas","Rate below Poverty Level",15.5,NA,2017,"Forsyth","Population",229367
+"103",103,2013,"Douglas","Below Poverty Level",27652,NA,2018,"Forsyth","Population",237330
+"104",104,2013,"Douglas","Rate below Poverty Level",20.5,NA,2019,"Forsyth","Population",244624
+"105",105,2014,"Douglas","Below Poverty Level",18511,NA,2020,"Forsyth","Population",250847
+"106",106,2014,"Douglas","Rate below Poverty Level",13.5,NA,2006,"Fulton","Population",845181
+"107",107,2015,"Douglas","Below Poverty Level",20097,NA,2007,"Fulton","Population",869329
+"108",108,2015,"Douglas","Rate below Poverty Level",14.4,NA,2008,"Fulton","Population",888694
+"109",109,2016,"Douglas","Below Poverty Level",17528,NA,2009,"Fulton","Population",905511
+"110",110,2016,"Douglas","Rate below Poverty Level",12.5,NA,2010,"Fulton","Population",925622
+"111",111,2017,"Douglas","Below Poverty Level",15593,NA,2011,"Fulton","Population",947582
+"112",112,2017,"Douglas","Rate below Poverty Level",11,NA,2012,"Fulton","Population",973464
+"113",113,2018,"Douglas","Below Poverty Level",19122,NA,2013,"Fulton","Population",981844
+"114",114,2018,"Douglas","Rate below Poverty Level",13.3,NA,2014,"Fulton","Population",992321
+"115",115,2019,"Douglas","Below Poverty Level",15544,NA,2015,"Fulton","Population",1005752
+"116",116,2019,"Douglas","Rate below Poverty Level",10.8,NA,2016,"Fulton","Population",1023816
+"117",117,2020,"Douglas","Below Poverty Level",16427,NA,2017,"Fulton","Population",1039996
+"118",118,2020,"Douglas","Rate below Poverty Level",11.5,NA,2018,"Fulton","Population",1051516
+"119",119,2021,"Douglas","Below Poverty Level",21105,NA,2019,"Fulton","Population",1065019
+"120",120,2021,"Douglas","Rate below Poverty Level",14.7,NA,2020,"Fulton","Population",1077402
+"121",121,2010,"Fayette","Below Poverty Level",7343,NA,2006,"Gwinnett","Population",740267
+"122",122,2010,"Fayette","Rate below Poverty Level",6.9,NA,2007,"Gwinnett","Population",764129
+"123",123,2011,"Fayette","Below Poverty Level",11903,NA,2008,"Gwinnett","Population",780721
+"124",124,2011,"Fayette","Rate below Poverty Level",11.1,NA,2009,"Gwinnett","Population",796276
+"125",125,2012,"Fayette","Below Poverty Level",8651,NA,2010,"Gwinnett","Population",807979
+"126",126,2012,"Fayette","Rate below Poverty Level",8.1,NA,2011,"Gwinnett","Population",822407
+"127",127,2013,"Fayette","Below Poverty Level",7242,NA,2012,"Gwinnett","Population",836854
+"128",128,2013,"Fayette","Rate below Poverty Level",6.7,NA,2013,"Gwinnett","Population",853496
+"129",129,2014,"Fayette","Below Poverty Level",7231,NA,2014,"Gwinnett","Population",871052
+"130",130,2014,"Fayette","Rate below Poverty Level",6.6,NA,2015,"Gwinnett","Population",888597
+"131",131,2015,"Fayette","Below Poverty Level",8868,NA,2016,"Gwinnett","Population",905291
+"132",132,2015,"Fayette","Rate below Poverty Level",8.1,NA,2017,"Gwinnett","Population",918681
+"133",133,2016,"Fayette","Below Poverty Level",6161,NA,2018,"Gwinnett","Population",928072
+"134",134,2016,"Fayette","Rate below Poverty Level",5.5,NA,2019,"Gwinnett","Population",937399
+"135",135,2017,"Fayette","Below Poverty Level",6472,NA,2020,"Gwinnett","Population",942627
+"136",136,2017,"Fayette","Rate below Poverty Level",5.8,NA,2006,"Henry","Population",180304
+"137",137,2018,"Fayette","Below Poverty Level",3390,NA,2007,"Henry","Population",188736
+"138",138,2018,"Fayette","Rate below Poverty Level",3,NA,2008,"Henry","Population",194658
+"139",139,2019,"Fayette","Below Poverty Level",6520,NA,2009,"Henry","Population",199622
+"140",140,2019,"Fayette","Rate below Poverty Level",5.8,NA,2010,"Henry","Population",205042
+"141",141,2020,"Fayette","Below Poverty Level",5237,NA,2011,"Henry","Population",206934
+"142",142,2020,"Fayette","Rate below Poverty Level",4.7,NA,2012,"Henry","Population",208047
+"143",143,2021,"Fayette","Below Poverty Level",9882,NA,2013,"Henry","Population",210089
+"144",144,2021,"Fayette","Rate below Poverty Level",8.2,NA,2014,"Henry","Population",213059
+"145",145,2010,"Forsyth","Below Poverty Level",13392,NA,2015,"Henry","Population",216548
+"146",146,2010,"Forsyth","Rate below Poverty Level",7.6,NA,2016,"Henry","Population",221040
+"147",147,2011,"Forsyth","Below Poverty Level",17394,NA,2017,"Henry","Population",225246
+"148",148,2011,"Forsyth","Rate below Poverty Level",9.6,NA,2018,"Henry","Population",229873
+"149",149,2012,"Forsyth","Below Poverty Level",11223,NA,2019,"Henry","Population",234671
+"150",150,2012,"Forsyth","Rate below Poverty Level",6,NA,2020,"Henry","Population",239139
+"151",151,2013,"Forsyth","Below Poverty Level",15730,NA,2006,"Rockdale","Population",79911
+"152",152,2013,"Forsyth","Rate below Poverty Level",8.1,NA,2007,"Rockdale","Population",82146
+"153",153,2014,"Forsyth","Below Poverty Level",12318,NA,2008,"Rockdale","Population",83558
+"154",154,2014,"Forsyth","Rate below Poverty Level",6.1,NA,2009,"Rockdale","Population",84625
+"155",155,2015,"Forsyth","Below Poverty Level",13668,NA,2010,"Rockdale","Population",85359
+"156",156,2015,"Forsyth","Rate below Poverty Level",6.5,NA,2011,"Rockdale","Population",85423
+"157",157,2016,"Forsyth","Below Poverty Level",13001,NA,2012,"Rockdale","Population",85453
+"158",158,2016,"Forsyth","Rate below Poverty Level",5.9,NA,2013,"Rockdale","Population",86522
+"159",159,2017,"Forsyth","Below Poverty Level",12732,NA,2014,"Rockdale","Population",87222
+"160",160,2017,"Forsyth","Rate below Poverty Level",5.6,NA,2015,"Rockdale","Population",88424
+"161",161,2018,"Forsyth","Below Poverty Level",12051,NA,2016,"Rockdale","Population",88995
+"162",162,2018,"Forsyth","Rate below Poverty Level",5.1,NA,2017,"Rockdale","Population",89800
+"163",163,2019,"Forsyth","Below Poverty Level",10570,NA,2018,"Rockdale","Population",90402
+"164",164,2019,"Forsyth","Rate below Poverty Level",4.3,NA,2019,"Rockdale","Population",90639
+"165",165,2020,"Forsyth","Below Poverty Level",12331,NA,2020,"Rockdale","Population",90939
+"166",166,2020,"Forsyth","Rate below Poverty Level",5.2,NA,NA,NA,NA,NA
+"167",167,2021,"Forsyth","Below Poverty Level",14506,NA,NA,NA,NA,NA
+"168",168,2021,"Forsyth","Rate below Poverty Level",5.6,NA,NA,NA,NA,NA
+"169",169,2010,"Fulton","Below Poverty Level",153623,NA,NA,NA,NA,NA
+"170",170,2010,"Fulton","Rate below Poverty Level",17.2,NA,NA,NA,NA,NA
+"171",171,2011,"Fulton","Below Poverty Level",175630,NA,NA,NA,NA,NA
+"172",172,2011,"Fulton","Rate below Poverty Level",19.1,NA,NA,NA,NA,NA
+"173",173,2012,"Fulton","Below Poverty Level",173943,NA,NA,NA,NA,NA
+"174",174,2012,"Fulton","Rate below Poverty Level",18.3,NA,NA,NA,NA,NA
+"175",175,2013,"Fulton","Below Poverty Level",167646,NA,NA,NA,NA,NA
+"176",176,2013,"Fulton","Rate below Poverty Level",17.6,NA,NA,NA,NA,NA
+"177",177,2014,"Fulton","Below Poverty Level",161589,NA,NA,NA,NA,NA
+"178",178,2014,"Fulton","Rate below Poverty Level",16.8,NA,NA,NA,NA,NA
+"179",179,2015,"Fulton","Below Poverty Level",149734,NA,NA,NA,NA,NA
+"180",180,2015,"Fulton","Rate below Poverty Level",15.3,NA,NA,NA,NA,NA
+"181",181,2016,"Fulton","Below Poverty Level",155061,NA,NA,NA,NA,NA
+"182",182,2016,"Fulton","Rate below Poverty Level",15.6,NA,NA,NA,NA,NA
+"183",183,2017,"Fulton","Below Poverty Level",142996,NA,NA,NA,NA,NA
+"184",184,2017,"Fulton","Rate below Poverty Level",14.2,NA,NA,NA,NA,NA
+"185",185,2018,"Fulton","Below Poverty Level",131569,NA,NA,NA,NA,NA
+"186",186,2018,"Fulton","Rate below Poverty Level",12.9,NA,NA,NA,NA,NA
+"187",187,2019,"Fulton","Below Poverty Level",139317,NA,NA,NA,NA,NA
+"188",188,2019,"Fulton","Rate below Poverty Level",13.5,NA,NA,NA,NA,NA
+"189",189,2020,"Fulton","Below Poverty Level",136164,NA,NA,NA,NA,NA
+"190",190,2020,"Fulton","Rate below Poverty Level",13.4,NA,NA,NA,NA,NA
+"191",191,2021,"Fulton","Below Poverty Level",135136,NA,NA,NA,NA,NA
+"192",192,2021,"Fulton","Rate below Poverty Level",13.1,NA,NA,NA,NA,NA
+"193",193,2010,"Gwinnett","Below Poverty Level",109641,NA,NA,NA,NA,NA
+"194",194,2010,"Gwinnett","Rate below Poverty Level",13.7,NA,NA,NA,NA,NA
+"195",195,2011,"Gwinnett","Below Poverty Level",128797,NA,NA,NA,NA,NA
+"196",196,2011,"Gwinnett","Rate below Poverty Level",15.7,NA,NA,NA,NA,NA
+"197",197,2012,"Gwinnett","Below Poverty Level",124208,NA,NA,NA,NA,NA
+"198",198,2012,"Gwinnett","Rate below Poverty Level",14.8,NA,NA,NA,NA,NA
+"199",199,2013,"Gwinnett","Below Poverty Level",115505,NA,NA,NA,NA,NA
+"200",200,2013,"Gwinnett","Rate below Poverty Level",13.6,NA,NA,NA,NA,NA
+"201",201,2014,"Gwinnett","Below Poverty Level",115681,NA,NA,NA,NA,NA
+"202",202,2014,"Gwinnett","Rate below Poverty Level",13.3,NA,NA,NA,NA,NA
+"203",203,2015,"Gwinnett","Below Poverty Level",112494,NA,NA,NA,NA,NA
+"204",204,2015,"Gwinnett","Rate below Poverty Level",12.6,NA,NA,NA,NA,NA
+"205",205,2016,"Gwinnett","Below Poverty Level",102496,NA,NA,NA,NA,NA
+"206",206,2016,"Gwinnett","Rate below Poverty Level",11.4,NA,NA,NA,NA,NA
+"207",207,2017,"Gwinnett","Below Poverty Level",98579,NA,NA,NA,NA,NA
+"208",208,2017,"Gwinnett","Rate below Poverty Level",10.8,NA,NA,NA,NA,NA
+"209",209,2018,"Gwinnett","Below Poverty Level",82456,NA,NA,NA,NA,NA
+"210",210,2018,"Gwinnett","Rate below Poverty Level",8.9,NA,NA,NA,NA,NA
+"211",211,2019,"Gwinnett","Below Poverty Level",86176,NA,NA,NA,NA,NA
+"212",212,2019,"Gwinnett","Rate below Poverty Level",9.3,NA,NA,NA,NA,NA
+"213",213,2020,"Gwinnett","Below Poverty Level",96753,NA,NA,NA,NA,NA
+"214",214,2020,"Gwinnett","Rate below Poverty Level",10.5,NA,NA,NA,NA,NA
+"215",215,2021,"Gwinnett","Below Poverty Level",104529,NA,NA,NA,NA,NA
+"216",216,2021,"Gwinnett","Rate below Poverty Level",10.9,NA,NA,NA,NA,NA
+"217",217,2010,"Henry","Below Poverty Level",21273,NA,NA,NA,NA,NA
+"218",218,2010,"Henry","Rate below Poverty Level",10.5,NA,NA,NA,NA,NA
+"219",219,2011,"Henry","Below Poverty Level",34987,NA,NA,NA,NA,NA
+"220",220,2011,"Henry","Rate below Poverty Level",17,NA,NA,NA,NA,NA
+"221",221,2012,"Henry","Below Poverty Level",31233,NA,NA,NA,NA,NA
+"222",222,2012,"Henry","Rate below Poverty Level",15.1,NA,NA,NA,NA,NA
+"223",223,2013,"Henry","Below Poverty Level",25572,NA,NA,NA,NA,NA
+"224",224,2013,"Henry","Rate below Poverty Level",12.3,NA,NA,NA,NA,NA
+"225",225,2014,"Henry","Below Poverty Level",34322,NA,NA,NA,NA,NA
+"226",226,2014,"Henry","Rate below Poverty Level",16.2,NA,NA,NA,NA,NA
+"227",227,2015,"Henry","Below Poverty Level",20648,NA,NA,NA,NA,NA
+"228",228,2015,"Henry","Rate below Poverty Level",9.5,NA,NA,NA,NA,NA
+"229",229,2016,"Henry","Below Poverty Level",21047,NA,NA,NA,NA,NA
+"230",230,2016,"Henry","Rate below Poverty Level",9.5,NA,NA,NA,NA,NA
+"231",231,2017,"Henry","Below Poverty Level",24390,NA,NA,NA,NA,NA
+"232",232,2017,"Henry","Rate below Poverty Level",10.9,NA,NA,NA,NA,NA
+"233",233,2018,"Henry","Below Poverty Level",13800,NA,NA,NA,NA,NA
+"234",234,2018,"Henry","Rate below Poverty Level",6,NA,NA,NA,NA,NA
+"235",235,2019,"Henry","Below Poverty Level",19053,NA,NA,NA,NA,NA
+"236",236,2019,"Henry","Rate below Poverty Level",8.2,NA,NA,NA,NA,NA
+"237",237,2020,"Henry","Below Poverty Level",20842,NA,NA,NA,NA,NA
+"238",238,2020,"Henry","Rate below Poverty Level",9.1,NA,NA,NA,NA,NA
+"239",239,2021,"Henry","Below Poverty Level",24513,NA,NA,NA,NA,NA
+"240",240,2021,"Henry","Rate below Poverty Level",10.1,NA,NA,NA,NA,NA
+"241",241,2010,"Rockdale","Below Poverty Level",11451,NA,NA,NA,NA,NA
+"242",242,2010,"Rockdale","Rate below Poverty Level",13.5,NA,NA,NA,NA,NA
+"243",243,2011,"Rockdale","Below Poverty Level",11470,NA,NA,NA,NA,NA
+"244",244,2011,"Rockdale","Rate below Poverty Level",13.5,NA,NA,NA,NA,NA
+"245",245,2012,"Rockdale","Below Poverty Level",15407,NA,NA,NA,NA,NA
+"246",246,2012,"Rockdale","Rate below Poverty Level",18.1,NA,NA,NA,NA,NA
+"247",247,2013,"Rockdale","Below Poverty Level",14216,NA,NA,NA,NA,NA
+"248",248,2013,"Rockdale","Rate below Poverty Level",16.5,NA,NA,NA,NA,NA
+"249",249,2014,"Rockdale","Below Poverty Level",15667,NA,NA,NA,NA,NA
+"250",250,2014,"Rockdale","Rate below Poverty Level",18.2,NA,NA,NA,NA,NA
+"251",251,2015,"Rockdale","Below Poverty Level",14064,NA,NA,NA,NA,NA
+"252",252,2015,"Rockdale","Rate below Poverty Level",16,NA,NA,NA,NA,NA
+"253",253,2016,"Rockdale","Below Poverty Level",12616,NA,NA,NA,NA,NA
+"254",254,2016,"Rockdale","Rate below Poverty Level",14.3,NA,NA,NA,NA,NA
+"255",255,2017,"Rockdale","Below Poverty Level",12139,NA,NA,NA,NA,NA
+"256",256,2017,"Rockdale","Rate below Poverty Level",13.6,NA,NA,NA,NA,NA
+"257",257,2018,"Rockdale","Below Poverty Level",10500,NA,NA,NA,NA,NA
+"258",258,2018,"Rockdale","Rate below Poverty Level",11.8,NA,NA,NA,NA,NA
+"259",259,2019,"Rockdale","Below Poverty Level",9453,NA,NA,NA,NA,NA
+"260",260,2019,"Rockdale","Rate below Poverty Level",10.5,NA,NA,NA,NA,NA
+"261",261,2020,"Rockdale","Below Poverty Level",10867,NA,NA,NA,NA,NA
+"262",262,2020,"Rockdale","Rate below Poverty Level",12.2,NA,NA,NA,NA,NA
+"263",263,2021,"Rockdale","Below Poverty Level",12151,NA,NA,NA,NA,NA
+"264",264,2021,"Rockdale","Rate below Poverty Level",13,NA,NA,NA,NA,NA
