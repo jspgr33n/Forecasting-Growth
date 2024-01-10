@@ -1,4 +1,4 @@
-# Forecasting Atlanta Population Growth for the ARC
+# Forecasting Atlanta's Population Growth for the ARC
 > Emory University Quantitative Theory &amp; Methods Department: Data Science for Social Good Practicum**
 
 **Goal:**
