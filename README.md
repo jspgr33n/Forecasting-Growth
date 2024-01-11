@@ -1,5 +1,5 @@
 # Forecasting Population Growth of Atlanta for the ARC
-> Emory University Quantitative Theory &amp; Methods Department: Data Science for Social Good Practicum**
+> Emory University Quantitative Theory &amp; Methods Department: Data Science for Social Good Practicum
 
 **Goal:**
 - Forecast a population growth model until 2050 to aid the Atlanta Regional Commission with efficient distribution of funds to counties in Atlanta’s Metro 11 Area.
