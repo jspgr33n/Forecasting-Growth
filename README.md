@@ -17,6 +17,8 @@
   - Despite this, the population in certain years between the sources show a discrepancy for this important county
   - Need to fix this, as Fulton County will play a crucial role in providing a good estimate for population growth in Atlanta
 
+> Note: for more information regarding the procedure and observations for this project, please take a look at the final presentation!
+
 **Final Presentation:**
 </br>
 </br>
